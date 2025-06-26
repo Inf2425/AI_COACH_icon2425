@@ -1,0 +1,690 @@
+Giocatore,Team,Role,Score_norm,Prob_Gol,Pred_Gol_Pesata,Etichetta_Predetta
+vanja milinkovic-savic,Torino,P,1.0,0.0,0.0,consigliato
+yann sommer,Inter,P,0.9941126241517232,0.0,0.0,consigliato
+wojciech szczesny,Juventus,P,0.87465731877219,0.0,0.0,consigliato
+michele di gregorio,Monza,P,0.8336254550357287,0.0,0.0,consigliato
+lukasz skorupski,Bologna,P,0.8150195496831604,0.0,0.0,consigliato
+mike maignan,AC Milan,P,0.7223944991236348,0.0,0.0,consigliato
+ivan provedel,Lazio,P,0.7020808053570625,0.0,0.0,consigliato
+marco carnesecchi,Atalanta,P,0.6906655880634578,0.0,0.0,consigliato
+josep martinez,Genoa,P,0.6847332704148128,0.0,0.0,consigliato
+pietro terracciano,Fiorentina,P,0.6720596827108893,0.0,0.0,consigliato
+lorenzo montipo,Verona,P,0.6697227090917262,0.0,0.0,consigliato
+wladimiro falcone,Lecce,P,0.6397465282459216,0.0,0.0,consigliato
+elia caprile,Empoli,P,0.6204215540874567,0.0,0.0,consigliato
+rui patricio,Roma,P,0.5942654262729764,0.0,0.0,consigliato
+maduka okoye,Udinese,P,0.5898611298368613,0.0,0.0,consigliato
+alex meret,Napoli,P,0.5569637319671027,0.0,0.0,consigliato
+stefano turati,Frosinone,P,0.5078872859646755,0.0,0.0,consigliato
+andrea consigli,Sassuolo,P,0.4835737719653049,0.0,0.0,consigliato
+simone scuffet,Cagliari,P,0.4832591793627251,0.0,0.0,consigliato
+guillermo ochoa,Salernitana,P,0.4091950923553997,0.0,0.0,consigliato
+juan musso,Atalanta,P,0.1617904813266819,0.0,0.0,sorpresa
+mile svilar,Roma,P,0.1348254011055683,0.0,0.0,non consigliato
+federico ravaglia,Bologna,P,0.1078603208844546,0.0,0.0,consigliato
+marco silvestri,Udinese,P,0.1078603208844546,0.0,0.0,sorpresa
+christos mandas,Lazio,P,0.1078603208844546,0.0,0.0,sorpresa
+etrit berisha,Empoli,P,0.1078603208844546,0.0,0.0,non consigliato
+boris radunovic,Cagliari,P,0.0539301604422273,0.0,0.0,consigliato
+michele cerofolini,Frosinone,P,0.0539301604422273,0.0,0.0,consigliato
+marco sportiello,AC Milan,P,0.0539301604422273,0.0,0.0,sorpresa
+emil audero,Inter,P,0.0539301604422273,0.0,0.0,non consigliato
+pierluigi gollini,Napoli,P,0.0269650802211136,0.0,0.0,non consigliato
+mattia perin,Juventus,P,0.0269650802211136,0.0,0.0,non consigliato
+benoit costil,Salernitana,P,0.0269650802211136,0.0,0.0,consigliato
+lovro stubljar,Empoli,P,0.0,0.0,0.0,non consigliato
+luca gemello,Torino,P,0.0,0.0,0.0,non consigliato
+luigi sepe,Salernitana,P,0.0,0.0,0.0,non consigliato
+francesco rossi,Atalanta,P,0.0,0.0,0.0,non consigliato
+samuele perisan,Empoli,P,0.0,0.0,0.0,non consigliato
+pietro boer,Roma,P,0.0,0.0,0.0,non consigliato
+nicola bagnolini,Bologna,P,0.0,0.0,0.0,non consigliato
+michele avella,Frosinone,P,0.0,0.0,0.0,non consigliato
+nicola leali,Genoa,P,0.0,0.0,0.0,non consigliato
+federico brancolini,Lecce,P,0.0,0.0,0.0,non consigliato
+eugenio lamanna,Monza,P,0.0,0.0,0.0,non consigliato
+vincenzo fiorillo,Salernitana,P,0.0,0.0,0.0,non consigliato
+alessandro sorentino,Monza,P,0.0,0.0,0.0,non consigliato
+alessio cragno,Sassuolo,P,0.0,0.0,0.0,non consigliato
+alessio furlanetto,Lazio,P,0.0,0.0,0.0,non consigliato
+raffaele di gennaro,Inter,P,0.0,0.0,0.0,non consigliato
+daniel theiner,Sassuolo,P,0.0,0.0,0.0,non consigliato
+pierluigi frattali,Frosinone,P,0.0,0.0,0.0,non consigliato
+daniele sommariva,Genoa,P,0.0,0.0,0.0,non consigliato
+oliver christensen,Fiorentina,P,0.0,0.0,0.0,non consigliato
+noah raveyre,AC Milan,P,0.0,0.0,0.0,non consigliato
+daniele padelli,Udinese,P,0.0,0.0,0.0,non consigliato
+mattia chiesa,Verona,P,0.0,0.0,0.0,non consigliato
+carlo pinsoglio,Juventus,P,0.0,0.0,0.0,non consigliato
+mihai popa,Torino,P,0.0,0.0,0.0,non consigliato
+nikita contini,Napoli,P,0.0,0.0,0.0,non consigliato
+simone perilli,Verona,P,0.0,0.0,0.0,non consigliato
+marius adamonis,Lazio,P,0.0,0.0,0.0,non consigliato
+franz stolz,Genoa,P,0.0,0.0,0.0,non consigliato
+gianluca pegolo,Sassuolo,P,0.0,0.0,0.0,non consigliato
+giacomo toniolo,Verona,P,0.0,0.0,0.0,non consigliato
+simone aresti,Cagliari,P,0.0,0.0,0.0,non consigliato
+antonio mirante,AC Milan,P,0.0,0.0,0.0,non consigliato
+alexandru borbei,Lecce,P,0.0,0.0,0.0,non consigliato
+alessandro berardi,Verona,P,0.0,0.0,0.0,non consigliato
+tommaso vannucchi,Fiorentina,P,0.0,0.0,0.0,non consigliato
+tommaso martinelli,Fiorentina,P,0.0,0.0,0.0,non consigliato
+andrea bartoccioni,AC Milan,P,0.0,0.0,0.0,non consigliato
+stefano gori,Monza,P,0.0,0.0,0.0,non consigliato
+jasper samooja,Lecce,P,0.0,0.0,0.0,non consigliato
+lapo nava,AC Milan,P,0.0,0.0,0.0,non consigliato
+hubert idasiak,Napoli,P,0.0,0.0,0.0,non consigliato
+lorenzo torriani,AC Milan,P,0.0,0.0,0.0,non consigliato
+alessandro bastoni,Inter,D,1.0,0.0213,0.0611,consigliato
+riccardo calafiori,Bologna,D,0.986333894871479,0.0338,0.305,consigliato
+francesco acerbi,Inter,D,0.984008919094826,0.0749,0.0861,consigliato
+jhon lucumi,Bologna,D,0.972241772662444,0.0,0.0,consigliato
+amir rrahmani,Napoli,D,0.9582109297425968,0.0599,0.1003,consigliato
+giovanni di lorenzo,Napoli,D,0.9479550247988536,0.0213,0.0611,consigliato
+gleison bremer,Juventus,D,0.9422335055170185,0.0749,0.1088,consigliato
+raoul bellanova,Torino,D,0.929246589541238,0.0213,0.0611,consigliato
+benjamin pavard,Inter,D,0.9161980795419008,0.0,0.0,consigliato
+danilo,Juventus,D,0.9037308864594128,0.0213,0.0611,consigliato
+federico dimarco,Inter,D,0.902296243447714,0.1433,0.1111,consigliato
+stefan de vrij,Inter,D,0.8925405224846112,0.0213,0.0611,consigliato
+carlos augusto,Inter,D,0.8892410542266769,0.0,0.0,non consigliato
+andrea cambiaso,Juventus,D,0.8790382683221634,0.0463,0.0736,consigliato
+pablo mari,Monza,D,0.8778438869281295,0.0,0.0,non consigliato
+theo hernandez,AC Milan,D,0.8617644532326232,0.1433,0.1111,consigliato
+sam beukema,Bologna,D,0.8608735646061627,0.0213,0.0611,consigliato
+alessio romagnoli,Lazio,D,0.8571252914841601,0.0,0.0,non consigliato
+diego llorente,Roma,D,0.854083732812151,0.0213,0.0611,consigliato
+berat djimsiti,Atalanta,D,0.8511483157677479,0.0,0.0,non consigliato
+gianluca mancini,Roma,D,0.8507971483578836,0.1073,0.0986,consigliato
+fikayo tomori,AC Milan,D,0.8491993942596959,0.1073,0.0986,consigliato
+ricardo rodriguez,Torino,D,0.8475810136385581,0.0213,0.0753,consigliato
+stefan posch,Bologna,D,0.8350961345151034,0.0213,0.0903,consigliato
+marin pongracic,Lecce,D,0.8323678824851515,0.0,0.0,non consigliato
+armando izzo,Monza,D,0.8306744275643985,0.0,0.0,non consigliato
+adam marusic,Lazio,D,0.8253466333630494,0.0213,0.0611,non consigliato
+patric,Lazio,D,0.8192105518088058,0.0463,0.1028,consigliato
+victor kristiansen,Bologna,D,0.8183824831470309,0.0,0.0,non consigliato
+nicolo casale,Lazio,D,0.8158382669627142,0.0,0.0,non consigliato
+lucas martinez quarta,Fiorentina,D,0.8154400264593121,0.1229,0.1425,consigliato
+sebastiano luperto,Empoli,D,0.8136986291182369,0.0213,0.0611,non consigliato
+federico gatti,Juventus,D,0.8095254772896249,0.0894,0.0986,consigliato
+mario gila,Lazio,D,0.8083206081342139,0.0,0.0,non consigliato
+alessandro buongiorno,Torino,D,0.8048149317558358,0.0749,0.0861,consigliato
+luca caldirola,Monza,D,0.8040071088899527,0.0213,0.0611,non consigliato
+evan n'dicka,Roma,D,0.7998016955194764,0.0,0.0,non consigliato
+giorgio scalvini,Atalanta,D,0.7946517313127061,0.0213,0.0611,non consigliato
+matteo darmian,Inter,D,0.7926289056061991,0.0463,0.0736,non consigliato
+juan jesus,Napoli,D,0.7896534639952048,0.0213,0.0611,non consigliato
+alessandro florenzi,AC Milan,D,0.7843373746127306,0.0213,0.0838,non consigliato
+malick thiaw,AC Milan,D,0.7783791103621633,0.0,0.0,non consigliato
+luca ranieri,Fiorentina,D,0.7760450326706265,0.0463,0.0736,non consigliato
+alberto dossena,Cagliari,D,0.7719904341717335,0.0347,0.0736,non consigliato
+nehuen perez,Udinese,D,0.769891952922302,0.0463,0.0736,non consigliato
+federico baschirotto,Lecce,D,0.7677065440708275,0.0,0.0,non consigliato
+nikola milenkovic,Fiorentina,D,0.7646326908606096,0.0,0.0,non consigliato
+cristiano biraghi,Fiorentina,D,0.7619347396281697,0.0347,0.0878,consigliato
+isak hien,Atalanta,D,0.7594731336010501,0.0,0.0,non consigliato
+davide calabria,AC Milan,D,0.7580463754467373,0.0,0.0,non consigliato
+danilo d'ambrosio,Monza,D,0.7561162631244753,0.0,0.0,non consigliato
+sebastian walukiewicz,Empoli,D,0.7558641888152695,0.0,0.0,non consigliato
+valentino lazaro,Torino,D,0.7532585258218588,0.0,0.0,non consigliato
+leo stigard,Napoli,D,0.753023009332436,0.0,0.0,non consigliato
+sead kolasinac,Atalanta,D,0.7524615117971722,0.0213,0.0611,non consigliato
+andrea carboni,Monza,D,0.7492249739147708,0.0213,0.0611,non consigliato
+denzel dumfries,Inter,D,0.7454375645893141,0.1073,0.1128,consigliato
+mathias olivera,Napoli,D,0.74440707857951,0.0213,0.0925,non consigliato
+michael kayode,Fiorentina,D,0.74403044941305,0.0213,0.0611,non consigliato
+mergim vojvoda,Torino,D,0.7430012109189083,0.0,0.0,non consigliato
+samuele birindelli,Monza,D,0.7428967495667219,0.0,0.0,non consigliato
+matteo ruggeri,Atalanta,D,0.73791469233829,0.0,0.0,non consigliato
+pawel dawidowicz,Verona,D,0.7352442397522099,0.0,0.0,non consigliato
+memeh caleb okoli,Frosinone,D,0.7312237226705216,0.0,0.0,non consigliato
+ardian ismajli,Empoli,D,0.7281676608357567,0.0,0.0,non consigliato
+koni de winter,Genoa,D,0.7265257347842183,0.0,0.0,non consigliato
+elseid hysaj,Lazio,D,0.7241908296458741,0.0,0.0,non consigliato
+johan vasquez,Genoa,D,0.7198020340112136,0.0213,0.0611,non consigliato
+thomas kristensen,Udinese,D,0.7168827623322793,0.0,0.0,non consigliato
+simon kjr,AC Milan,D,0.7151062264218666,0.0,0.0,non consigliato
+giangiacomo magnani,Verona,D,0.7126418677381126,0.0,0.0,non consigliato
+matteo lovato,Torino,D,0.710320062148768,0.0,0.0,non consigliato
+jaka bijol,Udinese,D,0.7025523494026534,0.0,0.0,non consigliato
+antonino gallo,Lecce,D,0.697701523714995,0.0,0.0,non consigliato
+giorgos kyriakopoulos,Monza,D,0.6976558669261159,0.0,0.0,non consigliato
+fabiano parisi,Fiorentina,D,0.6955378670694746,0.0,0.0,non consigliato
+valentin gendrey,Lecce,D,0.6937158063555626,0.0463,0.0736,non consigliato
+mario rui,Napoli,D,0.6932105815486654,0.0,0.0,non consigliato
+ilario monterisi,Frosinone,D,0.6912791151071648,0.0463,0.0736,non consigliato
+simone romagnoli,Frosinone,D,0.6898804254207093,0.0213,0.0611,non consigliato
+adam masina,Torino,D,0.6883690278339765,0.0,0.0,non consigliato
+hassane kamara,Udinese,D,0.6871374291008643,0.0213,0.0611,non consigliato
+radu dragusin,Genoa,D,0.6867182714528568,0.0463,0.0736,non consigliato
+domagoj bradaric,Salernitana,D,0.6857367634409743,0.0,0.0,non consigliato
+martin erlic,Sassuolo,D,0.6787276709338567,0.0213,0.0611,non consigliato
+joao ferreira,Udinese,D,0.6761606872714296,0.0,0.0,non consigliato
+tommaso augello,Cagliari,D,0.6746085950384821,0.0213,0.0611,non consigliato
+leonardo spinazzola,Roma,D,0.6736114353372167,0.0213,0.0611,non consigliato
+bartosz bereszynski,Empoli,D,0.6639543214132272,0.0,0.0,non consigliato
+pedro pereira,Monza,D,0.6607693377818447,0.0,0.0,non consigliato
+gian marco ferrari,Sassuolo,D,0.6584827075654534,0.0213,0.0611,non consigliato
+diego coppola,Verona,D,0.6583032480590638,0.0463,0.0736,non consigliato
+mattia bani,Genoa,D,0.6548788962495147,0.0463,0.0736,non consigliato
+gabriele zappa,Cagliari,D,0.6522191801664897,0.0213,0.0611,non consigliato
+jeremy toljan,Sassuolo,D,0.6520620198439282,0.0,0.0,non consigliato
+ruan tressoldi,Sassuolo,D,0.6502189011163992,0.0,0.0,non consigliato
+pol lirola,Frosinone,D,0.6493775590402681,0.0463,0.0736,non consigliato
+rasmus kristensen,Roma,D,0.6474366201095471,0.0213,0.0611,non consigliato
+lorenzo pirola,Salernitana,D,0.644252722819372,0.0,0.0,non consigliato
+juan cabal,Verona,D,0.6364828627726462,0.0,0.0,non consigliato
+nadir zortea,Frosinone,D,0.6350066139079728,0.0347,0.105,non consigliato
+patrick dorgu,Lecce,D,0.6347285600533714,0.0463,0.0736,non consigliato
+liberato cacace,Empoli,D,0.6343392399849546,0.0,0.0,non consigliato
+charalambos lykogiannis,Bologna,D,0.6339405603763447,0.0213,0.0611,non consigliato
+marcus holmgren pedersen,Sassuolo,D,0.6129507286303051,0.0,0.0,non consigliato
+pasquale mazzocchi,Napoli,D,0.6125828168443989,0.0,0.0,non consigliato
+mateusz wieteska,Cagliari,D,0.611594490010895,0.0,0.0,non consigliato
+hans hateboer,Atalanta,D,0.6068035780713746,0.0,0.0,non consigliato
+alessandro vogliacco,Genoa,D,0.5939004918484693,0.0,0.0,non consigliato
+filippo terracciano,AC Milan,D,0.5935084064325161,0.0,0.0,non consigliato
+marco davide faraoni,Verona,D,0.5908289065024308,0.0,0.0,non consigliato
+norbert gyomber,Salernitana,D,0.5880740505347071,0.0,0.0,non consigliato
+luca pellegrini,Lazio,D,0.5765148508763369,0.0213,0.0611,non consigliato
+aaron caricol,Genoa,D,0.560883295609056,0.0,0.0,non consigliato
+paulo azzi,Cagliari,D,0.5589455014838396,0.0,0.0,non consigliato
+festy ebosele,Udinese,D,0.5552815314853554,0.0,0.0,non consigliato
+jordan zemura,Udinese,D,0.5511032956814196,0.0213,0.0611,non consigliato
+josh doig,Sassuolo,D,0.5493828332522124,0.0,0.0,non consigliato
+alessandro zanoli,Salernitana,D,0.5317493567321279,0.0,0.0,non consigliato
+kingsley ehizibue,Udinese,D,0.5274571731267932,0.0,0.0,non consigliato
+emil holm,Atalanta,D,0.5245677212601867,0.0213,0.0611,non consigliato
+stefano sabelli,Genoa,D,0.5213741826917951,0.0,0.0,non consigliato
+giuseppe pezzella,Empoli,D,0.4995789291985225,0.0,0.0,non consigliato
+yann aurel bisseck,Inter,D,0.1217450915611074,0.0463,0.0736,non consigliato
+lorenzo de silvestri,Bologna,D,0.0994794117141027,0.0463,0.0736,non consigliato
+brandon soppy,Torino,D,0.0946616915132888,0.0,0.0,non consigliato
+alessandro dellavalle,Torino,D,0.0938804395888325,0.0,0.0,non consigliato
+david zima,Torino,D,0.0938804395888325,0.0,0.0,non consigliato
+wilfried singo,Torino,D,0.0938804395888325,0.0,0.0,non consigliato
+brian bayeye,Torino,D,0.0938804395888325,0.0,0.0,non consigliato
+perr schuurs,Torino,D,0.0914064751613876,0.0213,0.0611,non consigliato
+koffi djidji,Torino,D,0.0889325107339426,0.0,0.0,non consigliato
+adama soumaoro,Bologna,D,0.0886720934257905,0.0,0.0,non consigliato
+mihajlo ilic,Bologna,D,0.0886720934257905,0.0,0.0,non consigliato
+daniele rugani,Juventus,D,0.0886720934257905,0.0463,0.0736,non consigliato
+alex sandro,Juventus,D,0.0882814674635624,0.1109,0.0898,sorpresa
+tommaso corazza,Bologna,D,0.0871095895768779,0.0,0.0,non consigliato
+saba sazonov,Torino,D,0.0854168770738892,0.0,0.0,non consigliato
+mattia de sciglio,Juventus,D,0.0834637472627485,0.0,0.0,non consigliato
+tiago djalo,Juventus,D,0.0834637472627485,0.0,0.0,non consigliato
+mitchel bakker,Atalanta,D,0.076953314558946,0.0213,0.0611,non consigliato
+giovanni bonfanti,Atalanta,D,0.0731772635907405,0.0,0.0,non consigliato
+jose luis palomino,Atalanta,D,0.0730470549366644,0.0,0.0,non consigliato
+jan-carlo simic,AC Milan,D,0.0686199606980787,0.0213,0.0611,non consigliato
+giulio donati,Monza,D,0.0686199606980787,0.0,0.0,non consigliato
+dimitrije kamenovic,Lazio,D,0.0678387087736224,0.0,0.0,non consigliato
+rick karsdorp,Roma,D,0.0666668308869379,0.0,0.0,non consigliato
+matteo gabbia,AC Milan,D,0.0665366222328619,0.0463,0.0963,non consigliato
+pierre kalulu,AC Milan,D,0.0636720318431888,0.0,0.0,non consigliato
+mattia caldara,AC Milan,D,0.0628907799187325,0.0,0.0,non consigliato
+valentin antov,Monza,D,0.0626303626105804,0.0,0.0,non consigliato
+mario sampirisi,Monza,D,0.0626303626105804,0.0,0.0,non consigliato
+clinton nsiala-makengo,AC Milan,D,0.0626303626105804,0.0,0.0,non consigliato
+davide bartesaghi,AC Milan,D,0.0626303626105804,0.0,0.0,non consigliato
+armando anastasio,Monza,D,0.0626303626105804,0.0,0.0,non consigliato
+davide bettella,Monza,D,0.0626303626105804,0.0,0.0,non consigliato
+alejandro jimenez,AC Milan,D,0.0619793193402001,0.0,0.0,non consigliato
+rafael toloi,Atalanta,D,0.0593751462586791,0.0,0.0,non consigliato
+chris smalling,Roma,D,0.0576824337556904,0.0,0.0,non consigliato
+lovro golic,Roma,D,0.0574220164475383,0.0,0.0,non consigliato
+mehmet zeki celik,Roma,D,0.0571615991393862,0.0,0.0,non consigliato
+angelino,Roma,D,0.0563803472149299,0.0,0.0,non consigliato
+tyronne ebuehi,Empoli,D,0.0544272174037892,0.0,0.0,non consigliato
+riccardo marchizza,Frosinone,D,0.0523438789385723,0.0,0.0,non consigliato
+dean huijsen,Roma,D,0.0520834616304203,0.0463,0.0736,non consigliato
+ridgeciano haps,Genoa,D,0.0481772020081387,0.0,0.0,non consigliato
+davide biraschi,Genoa,D,0.0471355327755303,0.0142,0.0611,non consigliato
+luca marianucci,Empoli,D,0.0470053241214543,0.0,0.0,non consigliato
+petar stojanovic,Empoli,D,0.0470053241214543,0.0,0.0,non consigliato
+saba goglichidze,Empoli,D,0.0470053241214543,0.0,0.0,non consigliato
+antonio tikvic,Udinese,D,0.0470053241214543,0.0,0.0,non consigliato
+axel guessand,Udinese,D,0.0470053241214543,0.0,0.0,non consigliato
+james abankwah,Udinese,D,0.0470053241214543,0.0,0.0,non consigliato
+gabriele guarino,Empoli,D,0.0470053241214543,0.0,0.0,non consigliato
+enzo ebosse,Udinese,D,0.0470053241214543,0.0,0.0,non consigliato
+samuel john nwachukwu,Udinese,D,0.0470053241214543,0.0,0.0,non consigliato
+dodo,Fiorentina,D,0.0449219856562375,0.0,0.0,non consigliato
+ruben vinagre,Verona,D,0.0442709423858572,0.0,0.0,non consigliato
+fabien centonze,Verona,D,0.043880316423629,0.0,0.0,non consigliato
+alan matturro,Genoa,D,0.0419271866124883,0.0,0.0,non consigliato
+nicolo calabrese,Verona,D,0.0417969779584122,0.0,0.0,non consigliato
+denis cazzadori,Verona,D,0.0417969779584122,0.0,0.0,non consigliato
+silvan hefti,Genoa,D,0.0417969779584122,0.0,0.0,non consigliato
+federico ceccherini,Verona,D,0.0417969779584122,0.0,0.0,non consigliato
+christian dalle mura,Fiorentina,D,0.0417969779584122,0.0,0.0,non consigliato
+christian corradi,Verona,D,0.0417969779584122,0.0,0.0,non consigliato
+djed spence,Genoa,D,0.0407553087258038,0.0,0.0,non consigliato
+christian kabasele,Udinese,D,0.0397136394931954,0.0213,0.0611,non consigliato
+giorgio cittadini,Genoa,D,0.0391928048768912,0.0,0.0,non consigliato
+pietro comuzzo,Fiorentina,D,0.0391928048768912,0.0,0.0,non consigliato
+bruno amione,Verona,D,0.0372396750657505,0.0,0.0,non consigliato
+kastriot dermaku,Lecce,D,0.0365886317953702,0.0,0.0,non consigliato
+mats lemmens,Lecce,D,0.0365886317953702,0.0,0.0,non consigliato
+zinedin smajlovic,Lecce,D,0.0365886317953702,0.0,0.0,non consigliato
+lautaro gianetti,Udinese,D,0.036067797179066,0.0213,0.0611,non consigliato
+ahmed touba,Lecce,D,0.0339844587138492,0.0,0.0,non consigliato
+lorenzo venuti,Lecce,D,0.0332032067893929,0.0,0.0,non consigliato
+emanuele valeri,Frosinone,D,0.0330729981353168,0.0,0.0,non consigliato
+kevin bonifazi,Frosinone,D,0.0316407029404803,0.0,0.0,non consigliato
+sergio kalaj,Frosinone,D,0.0313802856323282,0.0,0.0,non consigliato
+przemyslaw szyminski,Frosinone,D,0.0313802856323282,0.0,0.0,non consigliato
+anthony oyono,Frosinone,D,0.028385486588579,0.0,0.0,non consigliato
+mateus lusuardi,Frosinone,D,0.0263021481233622,0.0,0.0,non consigliato
+elio capradossi,Cagliari,D,0.0261719394692862,0.0,0.0,non consigliato
+giorgio altare,Cagliari,D,0.0261719394692862,0.0,0.0,non consigliato
+natan,Napoli,D,0.0261719394692861,0.0,0.0,non consigliato
+adam obert,Cagliari,D,0.0253906875448298,0.0,0.0,non consigliato
+pantelis hatzidiakos,Cagliari,D,0.023177140425537,0.0,0.0,non consigliato
+alessandro di pardo,Cagliari,D,0.0230469317714609,0.0,0.0,non consigliato
+yerry mina,Cagliari,D,0.0229167231173849,0.0463,0.0963,non consigliato
+matias vina,Sassuolo,D,0.0201823413817878,0.0,0.0,non consigliato
+gerardo fusco,Salernitana,D,0.0188802548410273,0.0,0.0,non consigliato
+edoardo goldaniga,Cagliari,D,0.0174479596461907,0.0,0.0,non consigliato
+filippo missori,Sassuolo,D,0.0171875423380386,0.0,0.0,non consigliato
+kevin miranda,Sassuolo,D,0.0157552471432021,0.0,0.0,non consigliato
+mattia viti,Sassuolo,D,0.0134114913698332,0.1109,0.0898,non consigliato
+jerome boateng,Salernitana,D,0.0111979442505403,0.0,0.0,non consigliato
+konstantinos manolas,Salernitana,D,0.0109375269423882,0.0,0.0,non consigliato
+dylan bronn,Salernitana,D,0.0105469009801601,0.0,0.0,non consigliato
+emanuele elia,Salernitana,D,0.0105469009801601,0.0,0.0,non consigliato
+marash kumbulla,Sassuolo,D,0.0105469009801601,0.0,0.0,non consigliato
+flavius daniliuc,Salernitana,D,0.0066406413578785,0.0,0.0,non consigliato
+marco pellegrino,Salernitana,D,0.0055989721252701,0.0,0.0,non consigliato
+triantafyllos pasalidis,Salernitana,D,0.0035156336600533,0.0,0.0,non consigliato
+niccolo pierozzi,Salernitana,D,0.0006510432703802,0.0213,0.0903,non consigliato
+federico fazio,Salernitana,D,0.0,0.0213,0.0611,non consigliato
+hakan calhanoglu,Inter,C,1.0,0.3184,0.2278,consigliato
+teun koopmeiners,Atalanta,C,0.8678701709568648,0.3538,0.2213,consigliato
+luis alberto,Lazio,C,0.8240300382518294,0.1229,0.1111,consigliato
+antonio candreva,Salernitana,C,0.7790139201923737,0.1334,0.1236,consigliato
+matteo pessina,Monza,C,0.7662182403895132,0.1603,0.155,consigliato
+andrea colpani,Monza,C,0.761769439252209,0.2303,0.1611,consigliato
+arthur,Fiorentina,C,0.7412418368645464,0.1758,0.264,consigliato
+lazar samardzic,Udinese,C,0.7407761092758207,0.1603,0.2023,consigliato
+tijjani reijnders,AC Milan,C,0.7374313759986805,0.0749,0.1153,consigliato
+mario pasalic,Atalanta,C,0.7367436611029462,0.2377,0.2275,consigliato
+giacomo bonaventura,Fiorentina,C,0.7352489920977727,0.2637,0.1773,consigliato
+nicolo barella,Inter,C,0.730139511463939,0.0463,0.0736,non consigliato
+ivan ilic,Torino,C,0.726598725773892,0.0749,0.1003,consigliato
+henrikh mkhitaryan,Inter,C,0.713269955127861,0.0338,0.0736,non consigliato
+piotr zielinski,Napoli,C,0.7109329410033326,0.0749,0.0861,non consigliato
+felipe anderson,Lazio,C,0.7096368092898793,0.1073,0.0986,non consigliato
+lewis ferguson,Bologna,C,0.7006488504037295,0.1831,0.1236,non consigliato
+lorenzo pellegrini,Roma,C,0.6794004829979079,0.2197,0.1778,consigliato
+adrien rabiot,Juventus,C,0.6522715758283562,0.1229,0.1403,consigliato
+leandro paredes,Roma,C,0.6499368223675822,0.0749,0.0861,non consigliato
+andre-frank zambo anguissa,Napoli,C,0.645236427250458,0.0,0.0,non consigliato
+yacine adli,AC Milan,C,0.6420345786191055,0.0213,0.0611,non consigliato
+bryan cristante,Roma,C,0.6310263186350887,0.0213,0.0611,non consigliato
+ondrej duda,Verona,C,0.6210522907200916,0.0213,0.0611,non consigliato
+alfred duncan,Fiorentina,C,0.612211604101011,0.0463,0.0736,non consigliato
+remi oudin,Lecce,C,0.6116096360374965,0.0749,0.0861,non consigliato
+weston mckennie,Juventus,C,0.6097838219611645,0.0,0.0,non consigliato
+stanislav lobotka,Napoli,C,0.6096000622931143,0.0,0.0,non consigliato
+mattia zaccagni,Lazio,C,0.6070135070936132,0.1946,0.215,consigliato
+ederson,Atalanta,C,0.6047737755632112,0.1603,0.1236,non consigliato
+manuel locatelli,Juventus,C,0.5967907033146689,0.0213,0.0611,non consigliato
+kristian thorstvedt,Sassuolo,C,0.5888013530444892,0.1229,0.1425,non consigliato
+ruben loftus-cheek,AC Milan,C,0.5879509444111052,0.1334,0.1236,non consigliato
+matheus henrique,Sassuolo,C,0.5833697267971192,0.0347,0.0736,non consigliato
+daichi kamada,Lazio,C,0.5799796794509622,0.0463,0.0878,sorpresa
+remo freuler,Bologna,C,0.5781805983920597,0.0213,0.0611,non consigliato
+sandi lovric,Udinese,C,0.5777792164110744,0.0213,0.0611,non consigliato
+roberto gagliardini,Monza,C,0.57036648556069,0.0213,0.0611,non consigliato
+ismael bennacer,AC Milan,C,0.5675288074386936,0.0347,0.1523,consigliato
+filip kostic,Juventus,C,0.5556861424282179,0.0,0.0,non consigliato
+matteo guendouzi,Lazio,C,0.5549007973021652,0.0463,0.0736,non consigliato
+nicolas viola,Cagliari,C,0.5512699491542781,0.1229,0.1111,non consigliato
+marco brescianini,Frosinone,C,0.5463870326944722,0.0749,0.1175,non consigliato
+samuele ricci,Torino,C,0.5446372192948832,0.0213,0.0611,non consigliato
+roberto pereyra,Udinese,C,0.5441680791118274,0.1073,0.0986,non consigliato
+kristjan asllani,Inter,C,0.5402988430453615,0.0213,0.0611,non consigliato
+marten de roon,Atalanta,C,0.5402941797835493,0.0,0.0,non consigliato
+nahitan nandez,Cagliari,C,0.5381050385756043,0.0463,0.1028,sorpresa
+razvan marin,Empoli,C,0.5358576940183092,0.0,0.0,non consigliato
+valentin carboni,Monza,C,0.5343029826889025,0.0749,0.0861,non consigliato
+davide frattesi,Inter,C,0.5335925583046782,0.1831,0.1528,consigliato
+michel aebischer,Bologna,C,0.5320367732114135,0.0,0.0,non consigliato
+tomas suslov,Verona,C,0.5303053228194105,0.3327,0.1375,consigliato
+matias vecino,Lazio,C,0.5286469109969563,0.1603,0.215,consigliato
+enzo barrenechea,Frosinone,C,0.5240230513814849,0.0,0.0,non consigliato
+maxime lopez,Fiorentina,C,0.520438778255191,0.0,0.0,non consigliato
+grigoris kastanos,Salernitana,C,0.5199983499417313,0.0749,0.0861,non consigliato
+milan badelj,Genoa,C,0.5165731358007173,0.0213,0.0903,sorpresa
+rolando mandragora,Fiorentina,C,0.5139622049274291,0.0599,0.0861,non consigliato
+luca mazzitelli,Frosinone,C,0.5103031036251567,0.1712,0.1361,non consigliato
+walace,Udinese,C,0.5077038771893244,0.0463,0.0736,non consigliato
+davide zappacosta,Atalanta,C,0.4999450385124125,0.0463,0.0736,non consigliato
+giulio maggiore,Salernitana,C,0.4967073278138196,0.1073,0.1128,sorpresa
+loum tchaouna,Salernitana,C,0.4941976783793705,0.1073,0.1213,non consigliato
+daniel boloca,Sassuolo,C,0.4913681275389887,0.0,0.0,non consigliato
+antoine makoumbou,Cagliari,C,0.4907186937647034,0.0,0.0,non consigliato
+gianluca gaetano,Cagliari,C,0.4906114284579281,0.1334,0.1236,non consigliato
+antonin barak,Fiorentina,C,0.4893110304873073,0.0463,0.105,non consigliato
+nedim bajrami,Sassuolo,C,0.4888083197560489,0.0463,0.0736,non consigliato
+jonathan ikone,Fiorentina,C,0.4864263515408084,0.0894,0.0986,non consigliato
+giovanni fabbian,Bologna,C,0.4861222912373084,0.1831,0.1236,non consigliato
+morten frendrup,Genoa,C,0.4843752013307233,0.0463,0.105,non consigliato
+nicolo rovella,Lazio,C,0.4828671143913633,0.0,0.0,non consigliato
+francesco gelli,Frosinone,C,0.4827520982374294,0.0,0.0,non consigliato
+edoardo bove,Roma,C,0.4795176993392412,0.0,0.0,non consigliato
+yunus musah,AC Milan,C,0.467621181574357,0.0,0.0,non consigliato
+ruslan malinovsky,Genoa,C,0.4670474543231139,0.3219,0.1273,consigliato
+adrien tameze,Torino,C,0.4664350715729847,0.0,0.0,non consigliato
+danilo cataldi,Lazio,C,0.4618573076937065,0.0213,0.0611,non consigliato
+youssef maleh,Empoli,C,0.460950224076004,0.0,0.0,non consigliato
+reinier,Frosinone,C,0.4603497514652185,0.0463,0.0736,non consigliato
+nikola moro,Bologna,C,0.4525944488037702,0.0213,0.0611,non consigliato
+manuel lazzari,Lazio,C,0.4500337894150118,0.0,0.0,non consigliato
+kevin strootman,Genoa,C,0.4444744840054523,0.0,0.0,non consigliato
+fabio miretti,Juventus,C,0.4432896102724298,0.0213,0.0611,non consigliato
+michael folorunsho,Verona,C,0.4430749068692927,0.1073,0.1128,sorpresa
+kacper urbanski,Bologna,C,0.442594693753579,0.0,0.0,non consigliato
+matteo prati,Cagliari,C,0.4322342363278718,0.0213,0.0753,sorpresa
+lassana coulibaly,Salernitana,C,0.4284186473139258,0.0,0.0,non consigliato
+joan gonzalez,Lecce,C,0.4267975395289502,0.0,0.0,non consigliato
+jacopo fazzini,Empoli,C,0.4195318731867273,0.0213,0.0611,non consigliato
+mohamed kaba,Lecce,C,0.4154481106207489,0.0,0.0,non consigliato
+jens-lys cajuste,Napoli,C,0.4151743522624434,0.0,0.0,non consigliato
+suat serdar,Verona,C,0.4146367750610847,0.0,0.0,non consigliato
+alexis blin,Lecce,C,0.414332321866978,0.0,0.0,non consigliato
+gabriel strefezza,Lecce,C,0.4139890959239084,0.0213,0.0611,non consigliato
+warren bondo,Monza,C,0.4139024789727004,0.0213,0.0611,non consigliato
+martin payero,Udinese,C,0.4123479815732578,0.0463,0.105,non consigliato
+ylber ramadani,Lecce,C,0.4112758962427167,0.0213,0.0611,non consigliato
+timothy weah,Juventus,C,0.4099402286262942,0.0,0.0,non consigliato
+morten thorsby,Genoa,C,0.4077748274733005,0.0463,0.105,non consigliato
+alberto grassi,Empoli,C,0.4067516107404098,0.0,0.0,non consigliato
+hamza rafia,Lecce,C,0.3936898267465148,0.0213,0.0611,non consigliato
+ibrahim sulemana,Cagliari,C,0.3921947998200553,0.0463,0.0736,non consigliato
+gaetano oristanio,Cagliari,C,0.3897394104297538,0.0213,0.0611,non consigliato
+nicola zalewski,Roma,C,0.3873978688066596,0.0,0.0,non consigliato
+karol linetty,Torino,C,0.385431362866672,0.0,0.0,non consigliato
+uros racic,Sassuolo,C,0.3852327782635176,0.0213,0.0611,non consigliato
+jesper lindstrm,Napoli,C,0.377706076224793,0.0,0.0,non consigliato
+jean-daniel akpa-akpro,Monza,C,0.344364215039701,0.0,0.0,non consigliato
+alessandro deiola,Cagliari,C,0.3409035605203178,0.1109,0.0898,sorpresa
+mateusz legowski,Salernitana,C,0.3293745703196102,0.0,0.0,non consigliato
+abdou harroui,Frosinone,C,0.1103463919419757,0.045,0.0861,non consigliato
+houssem aouar,Roma,C,0.064581342104769,0.2146,0.1273,sorpresa
+nicolo fagioli,Juventus,C,0.0607542996096716,0.0,0.0,non consigliato
+juan cuadrado,Inter,C,0.0562894166987246,0.0,0.0,non consigliato
+junior sambia,Salernitana,C,0.0559704964907998,0.1109,0.0898,sorpresa
+jakub jankto,Cagliari,C,0.0500704726441913,0.0213,0.0611,non consigliato
+arijon ibrahimovic,Frosinone,C,0.0495920923323041,0.0,0.0,non consigliato
+gaetano castrovilli,Fiorentina,C,0.0494326322283417,0.0213,0.0838,non consigliato
+viktor kovalenko,Empoli,C,0.0491137120204169,0.0213,0.0611,non consigliato
+simone bastoni,Empoli,C,0.0473596508768306,0.0213,0.0611,non consigliato
+toma basic,Salernitana,C,0.0468812705649434,0.0,0.0,non consigliato
+hans nicolussi caviglia,Juventus,C,0.0424163876539964,0.0,0.0,non consigliato
+oussama el azzouzi,Bologna,C,0.0417785472381468,0.0463,0.0736,non consigliato
+szymon zurkowski,Empoli,C,0.0368352840153127,0.0508,0.0986,non consigliato
+martin hongla,Verona,C,0.0352406829756887,0.0,0.0,non consigliato
+eljif elmas,Napoli,C,0.034921762767764,0.0463,0.0736,non consigliato
+agustin martegani,Salernitana,C,0.0326893213122905,0.0213,0.0611,non consigliato
+hamed traore,Napoli,C,0.0320514808964409,0.0,0.0,non consigliato
+gvidas gineitis,Torino,C,0.0298190394409674,0.0,0.0,non consigliato
+oier zarraga,Udinese,C,0.0280649782973811,0.0463,0.0736,non consigliato
+alberto cerri,Empoli,C,0.0272676777775691,0.0,0.0,non consigliato
+emil bohinen,Salernitana,C,0.0261514570498323,0.0,0.0,non consigliato
+emanuel vignato,Salernitana,C,0.0256730767379452,0.0,0.0,non consigliato
+samuel vignato,Monza,C,0.0242379358022836,0.0,0.0,non consigliato
+carlos alcaraz,Juventus,C,0.0240784756983213,0.0,0.0,non consigliato
+berkan kutlu,Genoa,C,0.0239190155943589,0.0,0.0,non consigliato
+medon berisha,Lecce,C,0.0234406352824717,0.0,0.0,non consigliato
+stefano sensi,Inter,C,0.0229622549705845,0.0,0.0,non consigliato
+pedro obiang,Sassuolo,C,0.0202514332032238,0.0,0.0,non consigliato
+tajon buchanan,Inter,C,0.0197730528913366,0.0213,0.0903,non consigliato
+michel ndary adopo,Atalanta,C,0.0191352124754871,0.0,0.0,non consigliato
+iron gomis,Salernitana,C,0.0173811513319008,0.0,0.0,non consigliato
+luca garritano,Frosinone,C,0.0172216912279384,0.0,0.0,non consigliato
+marco mancosu,Cagliari,C,0.0169027710200136,0.0,0.0,non consigliato
+riccardo saponara,Verona,C,0.0165838508120888,0.0,0.0,non consigliato
+luca lipani,Sassuolo,C,0.0161054705002016,0.0,0.0,non consigliato
+filippo ranocchia,Empoli,C,0.0145108694605777,0.0,0.0,non consigliato
+rade krunic,AC Milan,C,0.0138730290447281,0.0,0.0,non consigliato
+renato sanches,Roma,C,0.0137135689407657,0.0213,0.0611,non consigliato
+davy klaassen,Inter,C,0.0133946487328409,0.0,0.0,non consigliato
+charlys,Verona,C,0.0119595077971794,0.0,0.0,non consigliato
+daniel silva,Verona,C,0.0106838269654803,0.0,0.0,non consigliato
+tommaso pobega,AC Milan,C,0.0102054466535931,0.0,0.0,non consigliato
+alejandro gomez,Monza,C,0.0102054466535931,0.0,0.0,non consigliato
+paul pogba,Juventus,C,0.0092486860298187,0.0,0.0,non consigliato
+nicolas dominguez,Bologna,C,0.0092486860298187,0.0,0.0,non consigliato
+riccardo pagano,Roma,C,0.0092486860298187,0.0,0.0,non consigliato
+simone verdi,Torino,C,0.0087703057179315,0.0,0.0,non consigliato
+ebenezer akinsanmiro,Inter,C,0.0087703057179315,0.0,0.0,non consigliato
+jose machin,Monza,C,0.0070162445743452,0.0,0.0,non consigliato
+elayis tavsan,Verona,C,0.0060594839505709,0.0,0.0,non consigliato
+lorenzo amatucci,Fiorentina,C,0.0060594839505709,0.0,0.0,non consigliato
+kevin leone,Sassuolo,C,0.0055811036386837,0.0,0.0,non consigliato
+joselito,Verona,C,0.0055811036386837,0.0,0.0,non consigliato
+niccolo pisilli,Roma,C,0.0055811036386837,0.0,0.0,non consigliato
+francesco d'alessio,Roma,C,0.0055811036386837,0.0,0.0,non consigliato
+iwo kaczmarski,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+lucien agoume,Inter,C,0.0055811036386837,0.0,0.0,non consigliato
+karlo lulic,Frosinone,C,0.0055811036386837,0.0,0.0,non consigliato
+karim zedadka,Napoli,C,0.0055811036386837,0.0,0.0,non consigliato
+liam henderson,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+antonio pio iervolino,Salernitana,C,0.0055811036386837,0.0,0.0,non consigliato
+kevin zeroli,AC Milan,C,0.0055811036386837,0.0,0.0,non consigliato
+antonino viola,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+andre anderson,Lazio,C,0.0055811036386837,0.0,0.0,non consigliato
+lorenzo ignacchiti,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+justin kumi,Sassuolo,C,0.0055811036386837,0.0,0.0,non consigliato
+reda belahyane,Verona,C,0.0055811036386837,0.0,0.0,non consigliato
+leander dendoncker,Napoli,C,0.0055811036386837,0.0,0.0,non consigliato
+luca belardinelli,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+orir johann helgason,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+niklas pyyhtia,Bologna,C,0.0055811036386837,0.0,0.0,non consigliato
+franco carboni,Monza,C,0.0055811036386837,0.0,0.0,non consigliato
+david pejicic,Udinese,C,0.0055811036386837,0.0,0.0,non consigliato
+quina,Udinese,C,0.0055811036386837,0.0,0.0,non consigliato
+christos papadopoulos,Genoa,C,0.0055811036386837,0.0,0.0,non consigliato
+christos kourfalidis,Cagliari,C,0.0055811036386837,0.0,0.0,non consigliato
+daniel samek,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+marcin listkowski,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+marco ballarini,Udinese,C,0.0055811036386837,0.0,0.0,non consigliato
+gino infantino,Fiorentina,C,0.0055811036386837,0.0,0.0,non consigliato
+catalin vulturar,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+giacomo faticanti,Lecce,C,0.0055811036386837,0.0,0.0,non consigliato
+mamadou coulibaly,Salernitana,C,0.0055811036386837,0.0,0.0,non consigliato
+marko rog,Cagliari,C,0.0055811036386837,0.0,0.0,non consigliato
+giovanni crociata,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+alessandro sodero,Empoli,C,0.0055811036386837,0.0,0.0,non consigliato
+pablo galdames,Genoa,C,0.0055811036386837,0.0,0.0,non consigliato
+filip jagiello,Genoa,C,0.0055811036386837,0.0,0.0,non consigliato
+nicola patane,Verona,C,0.0055811036386837,0.0,0.0,non consigliato
+mattia mannini,Roma,C,0.0055811036386837,0.0,0.0,non consigliato
+mattia valoti,Monza,C,0.0055811036386837,0.0,0.0,non consigliato
+etienne camara,Udinese,C,0.0055811036386837,0.0,0.0,non consigliato
+domingos quina,Udinese,C,0.0055811036386837,0.0,0.0,non consigliato
+victor eletu,AC Milan,C,0.0055811036386837,0.0,0.0,non consigliato
+nunzio lella,Cagliari,C,0.0055811036386837,0.0,0.0,non consigliato
+nikola sekulov,Juventus,C,0.0055811036386837,0.0,0.0,non consigliato
+luka romero,AC Milan,C,0.0033486621832102,0.0,0.0,non consigliato
+nicolas haas,Empoli,C,0.002870281871323,0.0,0.0,non consigliato
+diego demme,Napoli,C,0.0023919015594358,0.0,0.0,non consigliato
+mehdi bourabia,Frosinone,C,0.0012756808316991,0.0,0.0,non consigliato
+joseph boende,Juventus,C,0.0,0.0,0.0,non consigliato
+lautaro martinez,Inter,A,1.0,0.5038,0.3778,consigliato
+albert gudmundsson,Genoa,A,0.9217349622639194,0.391,0.2425,consigliato
+matias soule,Frosinone,A,0.8382918373067876,0.2472,0.18,consigliato
+paulo dybala,Roma,A,0.8194920748790997,0.2724,0.2425,consigliato
+khvicha kvaratskhelia,Napoli,A,0.8164231058664397,0.3206,0.2003,consigliato
+olivier giroud,AC Milan,A,0.79886033517632,0.68,0.375,consigliato
+dusan vlahovic,Juventus,A,0.774467915127962,0.3238,0.2486,consigliato
+rafael leao,AC Milan,A,0.7737022862058283,0.5024,0.3515,consigliato
+marcus thuram,Inter,A,0.7660261160360614,0.3519,0.2403,consigliato
+christian pulisic,AC Milan,A,0.7638988296978675,0.3184,0.15,consigliato
+victor osimhen,Napoli,A,0.7341955970620807,0.3169,0.3402,consigliato
+charles de ketelaere,Atalanta,A,0.733663529112349,0.2015,0.1125,consigliato
+ademola lookman,Atalanta,A,0.7261281116084548,0.2711,0.2775,consigliato
+matteo politano,Napoli,A,0.7204012116395615,0.1923,0.1486,consigliato
+duvan zapata,Torino,A,0.7111918227469753,0.4004,0.2253,consigliato
+joshua zirkzee,Bologna,A,0.7013123983893322,0.3645,0.1861,consigliato
+romelu lukaku,Roma,A,0.6910330888800196,0.4397,0.2529,consigliato
+gianluca scamacca,Atalanta,A,0.6885200374732376,0.513,0.325,consigliato
+nicolas gonzalez,Fiorentina,A,0.6741926252539724,0.3823,0.4,consigliato
+federico chiesa,Juventus,A,0.6523830598716707,0.4187,0.2125,consigliato
+riccardo orsolini,Bologna,A,0.6332960829678862,0.1744,0.1736,non consigliato
+armand lauriente,Sassuolo,A,0.5762828461167271,0.0995,0.1338,non consigliato
+andrea pinamonti,Sassuolo,A,0.5712719829198509,0.3538,0.2278,consigliato
+nikola krstovic,Lecce,A,0.546031290576126,0.126,0.2402,non consigliato
+milan djuric,Verona,A,0.5402852581068134,0.2674,0.2525,consigliato
+lorenzo lucca,Udinese,A,0.5372352538779441,0.2268,0.1653,consigliato
+giacomo raspadori,Napoli,A,0.5369526895211365,0.1229,0.1111,non consigliato
+walid cheddira,Frosinone,A,0.5348300417528841,0.1712,0.1503,consigliato
+alexis saelemaekers,Bologna,A,0.5237712933132613,0.0894,0.13,non consigliato
+aleksey miranchuk,Atalanta,A,0.5217060623788722,0.0749,0.0861,non consigliato
+florian thauvin,Udinese,A,0.5151711554124309,0.0894,0.0986,non consigliato
+ciro immobile,Lazio,A,0.5087514727829896,0.1764,0.1588,non consigliato
+cyril ngonge,Napoli,A,0.4990652635055614,0.1603,0.1236,non consigliato
+lucas beltran,Fiorentina,A,0.486950125264437,0.1603,0.1236,non consigliato
+nikola vlasic,Torino,A,0.4802855811270323,0.0749,0.0861,non consigliato
+dany mota,Monza,A,0.4693012692440972,0.1073,0.0986,non consigliato
+antonio sanabria,Torino,A,0.4675122241620843,0.1433,0.1111,non consigliato
+luka jovic,AC Milan,A,0.4657185663706282,0.1603,0.1236,non consigliato
+andrea belotti,Fiorentina,A,0.451878010669156,0.1081,0.1236,non consigliato
+mateo retegui,Genoa,A,0.4505252030670766,0.2197,0.1713,non consigliato
+m'bala nzola,Fiorentina,A,0.4477414283987825,0.0749,0.1003,sorpresa
+noah okafor,AC Milan,A,0.4464912088908567,0.1603,0.1236,non consigliato
+marko arnautovic,Inter,A,0.4359740897552554,0.2867,0.0625,consigliato
+alexis sanchez,Inter,A,0.4293440294623524,0.0463,0.0736,non consigliato
+zito luvumbo,Cagliari,A,0.4218342271585197,0.1195,0.1111,non consigliato
+stephan el shaarawy,Roma,A,0.418244125420769,0.0749,0.0861,non consigliato
+lameck banda,Lecce,A,0.4155316875643998,0.0463,0.0736,non consigliato
+arkadiusz milik,Juventus,A,0.4105186360170172,0.1073,0.1128,sorpresa
+pontus almqvist,Lecce,A,0.4092620201784919,0.0347,0.0736,non consigliato
+valentin castellanos,Lazio,A,0.405670708520928,0.087,0.0986,non consigliato
+nicolo cambiaghi,Empoli,A,0.3973908584137184,0.0213,0.0611,non consigliato
+federico bonazzoli,Verona,A,0.3962712806190206,0.045,0.0861,non consigliato
+darko lazovic,Verona,A,0.3928057418709881,0.0749,0.1088,non consigliato
+caleb ekuban,Genoa,A,0.3913512269381301,0.1073,0.1213,non consigliato
+riccardo sottil,Fiorentina,A,0.3910341927968974,0.0463,0.105,non consigliato
+dan ndoye,Bologna,A,0.3901715493456509,0.0213,0.0903,sorpresa
+gianluca lapadula,Cagliari,A,0.3893838847683358,0.0749,0.1003,sorpresa
+roberto piccoli,Lecce,A,0.3735319321575109,0.1073,0.0986,non consigliato
+matteo cancellieri,Empoli,A,0.372727840389174,0.2048,0.1398,sorpresa
+kenan yildiz,Juventus,A,0.3718143780461207,0.0463,0.0878,sorpresa
+francesco caputo,Empoli,A,0.3697194042748725,0.0463,0.0736,non consigliato
+lorenzo colombo,Monza,A,0.3649950854407962,0.0749,0.0861,non consigliato
+pedro rodriguez,Lazio,A,0.3585789306352385,0.0213,0.0611,non consigliato
+samuel chukwueze,AC Milan,A,0.3551505491548597,0.0213,0.0611,non consigliato
+tommaso baldanzi,Roma,A,0.3539934540541158,0.0463,0.0736,non consigliato
+gustav isaksen,Lazio,A,0.3478766847296071,0.0749,0.0861,non consigliato
+nicola sansone,Lecce,A,0.3465871695670076,0.0463,0.0736,non consigliato
+cristian volpato,Sassuolo,A,0.3365828199215989,0.0213,0.0611,non consigliato
+patrick ciurria,Monza,A,0.3323795032547592,0.0,0.0,non consigliato
+samuel iling-junior,Juventus,A,0.3305908169557744,0.0213,0.0611,non consigliato
+kaio jorge,Frosinone,A,0.3305865248662942,0.0599,0.0861,non consigliato
+eldor shomurodov,Cagliari,A,0.327795813056594,0.0463,0.0736,non consigliato
+christian kouame,Fiorentina,A,0.3236185434350276,0.0463,0.0736,non consigliato
+sardar azmoun,Roma,A,0.2990707778676363,0.0749,0.0861,non consigliato
+alessio zerbin,Monza,A,0.2870746436134114,0.0,0.0,non consigliato
+isaac success,Udinese,A,0.2855494717737655,0.0213,0.0838,non consigliato
+leonardo pavoletti,Cagliari,A,0.2796135484280822,0.0347,0.0736,non consigliato
+domenico berardi,Sassuolo,A,0.2746738919874217,0.2131,0.1486,non consigliato
+chukwubuikem ikwuemesi,Salernitana,A,0.2738843604327813,0.0213,0.0611,non consigliato
+gregoire defrel,Sassuolo,A,0.2708195060011339,0.0213,0.0611,non consigliato
+emmanuel quartsin gyasi,Empoli,A,0.2653376287289402,0.0213,0.0611,non consigliato
+giovanni simeone,Napoli,A,0.2632779954625802,0.0213,0.0611,non consigliato
+jackson tchatchoua,Verona,A,0.2469375096698177,0.0,0.0,non consigliato
+demba seck,Frosinone,A,0.2426830974289478,0.0,0.0,non consigliato
+pietro pellegri,Torino,A,0.2384663574060406,0.0213,0.0903,sorpresa
+marvin cuni,Frosinone,A,0.2349666707489096,0.0213,0.0611,non consigliato
+moise kean,Juventus,A,0.2285056642987328,0.0,0.0,non consigliato
+samuele mulattieri,Sassuolo,A,0.216538621598529,0.0,0.0,non consigliato
+tijjani noslin,Verona,A,0.1780392862324138,0.2048,0.1602,sorpresa
+m'baye niang,Empoli,A,0.1628093609548119,0.4865,0.175,sorpresa
+boulaye dia,Salernitana,A,0.1165843481314194,0.0749,0.0861,non consigliato
+daniel maldini,Empoli,A,0.1118158731243747,0.0894,0.0986,non consigliato
+luis muriel,Atalanta,A,0.0942017103432504,0.0347,0.0736,non consigliato
+simy,Salernitana,A,0.0810640751197599,0.1758,0.1023,sorpresa
+andrea petagna,Cagliari,A,0.075273784039777,0.0213,0.0611,non consigliato
+thomas henry,Verona,A,0.0692888613268536,0.0599,0.0861,non consigliato
+karol swiderski,Verona,A,0.065201597035101,0.0463,0.1028,non consigliato
+junior messias,Genoa,A,0.0607250694774672,0.0213,0.0611,non consigliato
+el bilal toure,Atalanta,A,0.0604817799362914,0.0463,0.0736,non consigliato
+nemanja radonjic,Torino,A,0.060335806211586,0.0,0.0,non consigliato
+jovane cabral,Salernitana,A,0.0482686449692688,0.0213,0.0611,non consigliato
+jens odgaard,Bologna,A,0.0479766975198579,0.0463,0.0736,non consigliato
+emmanuel ekong,Empoli,A,0.0459330653739816,0.0,0.0,non consigliato
+vitor oliveira,Genoa,A,0.0452518546586895,0.1758,0.1023,sorpresa
+jaime baez,Frosinone,A,0.0406293533763502,0.0213,0.0611,non consigliato
+samuel castillejo,Sassuolo,A,0.0375639051575358,0.0,0.0,non consigliato
+josip brekalo,Fiorentina,A,0.0334766408657832,0.0213,0.0611,non consigliato
+mirko maric,Monza,A,0.033087377599902,0.0213,0.0611,non consigliato
+gianluca caprari,Monza,A,0.0324061668846099,0.0,0.0,non consigliato
+rares burnete,Lecce,A,0.031141061270496,0.0,0.0,non consigliato
+tammy abraham,Roma,A,0.030508508463439,0.0213,0.0925,non consigliato
+santiago castro,Bologna,A,0.02919474494109,0.0213,0.0753,non consigliato
+shon weissman,Salernitana,A,0.0270537969787434,0.0213,0.0611,non consigliato
+beto,Udinese,A,0.0265672178963919,0.0,0.0,non consigliato
+keinan davis,Udinese,A,0.0251074806493374,0.1109,0.0898,non consigliato
+stiven shpendi,Empoli,A,0.0207282689081739,0.0,0.0,non consigliato
+zanos savva,Torino,A,0.0201443740093521,0.0213,0.0903,non consigliato
+santiago pierotti,Lecce,A,0.0196577949270006,0.0,0.0,non consigliato
+jesper karlsson,Bologna,A,0.018490005129357,0.0,0.0,non consigliato
+chaka traore,AC Milan,A,0.0177114785975945,0.0213,0.0611,non consigliato
+joao costa,Roma,A,0.0174195311481837,0.0,0.0,non consigliato
+federico di francesco,Lecce,A,0.0172248995152431,0.0142,0.0611,non consigliato
+kingstone mutandwa,Cagliari,A,0.0172248995152431,0.1109,0.0898,non consigliato
+george puscas,Genoa,A,0.014597372470545,0.0,0.0,non consigliato
+emil konradsen ceide,Sassuolo,A,0.013332266856431,0.0,0.0,non consigliato
+stefan mitrovic,Verona,A,0.0123591086917281,0.0,0.0,non consigliato
+jordi mboula,Verona,A,0.0121158191505523,0.0,0.0,non consigliato
+david okereke,Torino,A,0.011677897976436,0.0,0.0,non consigliato
+andres sfait,Salernitana,A,0.0105101081787924,0.0,0.0,non consigliato
+giuseppe caso,Frosinone,A,0.0104614502705572,0.0,0.0,non consigliato
+brenner da silva,Udinese,A,0.0084664760329161,0.0,0.0,non consigliato
+mattia destro,Empoli,A,0.0080772127670349,0.0,0.0,non consigliato
+sydney van hooijdonk,Bologna,A,0.007785265317624,0.0,0.0,non consigliato
+fares ghedjemis,Frosinone,A,0.006812107152921,0.0,0.0,non consigliato
+yann karamoh,Torino,A,0.0053523699058665,0.0,0.0,non consigliato
+trivante stewart,Salernitana,A,0.0043792117411635,0.0,0.0,non consigliato
+juan manuel cruz,Verona,A,0.0039899484752823,0.0,0.0,non consigliato
+david ankeye,Genoa,A,0.0023355795952871,0.0,0.0,non consigliato
+seydou fini,Genoa,A,0.0006812107152921,0.0,0.0,non consigliato
+simone pafundi,Udinese,A,0.0004865790823515,0.0,0.0,non consigliato
+yayah kallon,Verona,A,0.0001946316329406,0.0,0.0,non consigliato
+luigi canotto,Frosinone,A,0.0001946316329406,0.0,0.0,non consigliato
+diego valencia,Salernitana,A,0.0001946316329406,0.0,0.0,non consigliato
+ola solbakken,Roma,A,0.0001946316329406,0.0,0.0,non consigliato
+diego gonzalez,Lazio,A,0.0001946316329406,0.0,0.0,non consigliato
+vivaldo semedo,Udinese,A,0.0001946316329406,0.0,0.0,non consigliato
+agustin alvarez,Sassuolo,A,0.0001946316329406,0.0,0.0,non consigliato
+jeppe corfitzen,Lecce,A,0.0001946316329406,0.0,0.0,non consigliato
+till winkelman,Lecce,A,0.0001946316329406,0.0,0.0,non consigliato
+flavio russo,Sassuolo,A,0.0001946316329406,0.0,0.0,non consigliato
+giacomo corona,Empoli,A,0.0001946316329406,0.0,0.0,non consigliato
+matija popovic,Monza,A,0.0001946316329406,0.0,0.0,non consigliato
+giorgi kvernadze,Frosinone,A,0.0001946316329406,0.0,0.0,non consigliato
+gaston pereiro,Cagliari,A,0.0001946316329406,0.0,0.0,non consigliato
+gerard deulofeu,Udinese,A,0.0001946316329406,0.0,0.0,non consigliato
+massimo coda,Genoa,A,0.0001946316329406,0.0,0.0,non consigliato
+francesco camarda,AC Milan,A,0.0001946316329406,0.0,0.0,non consigliato
+siren diao balde,Verona,A,0.0001946316329406,0.0,0.0,non consigliato
+marley ake,Udinese,A,0.0001946316329406,0.0,0.0,non consigliato
+gennaro borrelli,Frosinone,A,0.0001946316329406,0.0,0.0,non consigliato
+hirving lozano,Napoli,A,0.0001946316329406,0.0,0.0,non consigliato
+jacopo desogus,Cagliari,A,0.0001946316329406,0.0,0.0,non consigliato
+luigi cherubini,Roma,A,0.0001946316329406,0.0,0.0,non consigliato
+sekou diawara,Udinese,A,0.0001946316329406,0.0,0.0,non consigliato
+leonardo cerri,Juventus,A,0.0001946316329406,0.0213,0.0611,non consigliato
+joaquin correa,Inter,A,0.0001946316329406,0.0,0.0,non consigliato
+soufiane bidaoui,Frosinone,A,0.0001946316329406,0.0,0.0,non consigliato
+andrea ferraris,Monza,A,0.0001946316329406,0.0,0.0,non consigliato
+joel voelkerling persson,Lecce,A,0.0001946316329406,0.0,0.0,non consigliato
+junior ajayi,Verona,A,0.0001946316329406,0.0,0.0,non consigliato
+assan ceesay,Lecce,A,0.0001946316329406,0.0,0.0,non consigliato
+alphadjo cisse,Verona,A,0.0001946316329406,0.0,0.0,non consigliato
+erik botheim,Salernitana,A,0.0,0.0,0.0,non consigliato

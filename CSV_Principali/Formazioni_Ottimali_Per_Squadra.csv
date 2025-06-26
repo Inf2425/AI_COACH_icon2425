@@ -1,0 +1,221 @@
+Player,Team,Role,Modulo
+vanja milinkovic-savic,Torino,P,'4-3-3
+raoul bellanova,Torino,D,'4-3-3
+ricardo rodriguez,Torino,D,'4-3-3
+alessandro buongiorno,Torino,D,'4-3-3
+valentino lazaro,Torino,D,'4-3-3
+ivan ilic,Torino,C,'4-3-3
+samuele ricci,Torino,C,'4-3-3
+adrien tameze,Torino,C,'4-3-3
+nikola vlasic,Torino,A,'4-3-3
+pietro pellegri,Torino,A,'4-3-3
+duvan zapata,Torino,A,'4-3-3
+yann sommer,Inter,P,'3-5-2
+francesco acerbi,Inter,D,'3-5-2
+alessandro bastoni,Inter,D,'3-5-2
+federico dimarco,Inter,D,'3-5-2
+kristjan asllani,Inter,C,'3-5-2
+davide frattesi,Inter,C,'3-5-2
+hakan calhanoglu,Inter,C,'3-5-2
+denzel dumfries,Inter,D,'3-5-2
+carlos augusto,Inter,D,'3-5-2
+lautaro martinez,Inter,A,'3-5-2
+marcus thuram,Inter,A,'3-5-2
+wojciech szczesny,Juventus,P,'4-3-3
+andrea cambiaso,Juventus,D,'4-3-3
+federico gatti,Juventus,D,'4-3-3
+gleison bremer,Juventus,D,'4-3-3
+danilo,Juventus,D,'4-3-3
+adrien rabiot,Juventus,C,'4-3-3
+manuel locatelli,Juventus,C,'4-3-3
+fabio miretti,Juventus,C,'4-3-3
+federico chiesa,Juventus,A,'4-3-3
+arkadiusz milik,Juventus,A,'4-3-3
+dusan vlahovic,Juventus,A,'4-3-3
+michele di gregorio,Monza,P,'4-3-3
+samuele birindelli,Monza,D,'4-3-3
+giorgos kyriakopoulos,Monza,D,'4-3-3
+pablo mari,Monza,D,'4-3-3
+luca caldirola,Monza,D,'4-3-3
+andrea colpani,Monza,C,'4-3-3
+matteo pessina,Monza,C,'4-3-3
+valentin carboni,Monza,C,'4-3-3
+dany mota,Monza,A,'4-3-3
+patrick ciurria,Monza,A,'4-3-3
+lorenzo colombo,Monza,A,'4-3-3
+lukasz skorupski,Bologna,P,'4-3-3
+riccardo calafiori,Bologna,D,'4-3-3
+stefan posch,Bologna,D,'4-3-3
+jhon lucumi,Bologna,D,'4-3-3
+sam beukema,Bologna,D,'4-3-3
+lewis ferguson,Bologna,C,'4-3-3
+giovanni fabbian,Bologna,C,'4-3-3
+remo freuler,Bologna,C,'4-3-3
+joshua zirkzee,Bologna,A,'4-3-3
+riccardo orsolini,Bologna,A,'4-3-3
+dan ndoye,Bologna,A,'4-3-3
+mike maignan,AC Milan,P,'4-3-3
+theo hernandez,AC Milan,D,'4-3-3
+alessandro florenzi,AC Milan,D,'4-3-3
+fikayo tomori,AC Milan,D,'4-3-3
+malick thiaw,AC Milan,D,'4-3-3
+tijjani reijnders,AC Milan,C,'4-3-3
+ismael bennacer,AC Milan,C,'4-3-3
+ruben loftus-cheek,AC Milan,C,'4-3-3
+rafael leao,AC Milan,A,'4-3-3
+christian pulisic,AC Milan,A,'4-3-3
+olivier giroud,AC Milan,A,'4-3-3
+ivan provedel,Lazio,P,'3-5-2
+patric,Lazio,D,'3-5-2
+adam marusic,Lazio,D,'3-5-2
+alessio romagnoli,Lazio,D,'3-5-2
+mattia zaccagni,Lazio,C,'3-5-2
+matias vecino,Lazio,C,'3-5-2
+daichi kamada,Lazio,C,'3-5-2
+luis alberto,Lazio,C,'3-5-2
+felipe anderson,Lazio,C,'3-5-2
+ciro immobile,Lazio,A,'3-5-2
+valentin castellanos,Lazio,A,'3-5-2
+marco carnesecchi,Atalanta,P,'4-2-3-1
+sead kolasinac,Atalanta,D,'4-2-3-1
+matteo ruggeri,Atalanta,D,'4-2-3-1
+berat djimsiti,Atalanta,D,'4-2-3-1
+giorgio scalvini,Atalanta,D,'4-2-3-1
+ederson,Atalanta,C,'4-2-3-1
+marten de roon,Atalanta,C,'4-2-3-1
+teun koopmeiners,Atalanta,C,'4-2-3-1
+ademola lookman,Atalanta,A,'4-2-3-1
+mario pasalic,Atalanta,C,'4-2-3-1
+gianluca scamacca,Atalanta,A,'4-2-3-1
+josep martinez,Genoa,P,'3-5-2
+johan vasquez,Genoa,D,'3-5-2
+radu dragusin,Genoa,D,'3-5-2
+koni de winter,Genoa,D,'3-5-2
+milan badelj,Genoa,C,'3-5-2
+ruslan malinovsky,Genoa,C,'3-5-2
+morten thorsby,Genoa,C,'3-5-2
+aaron caricol,Genoa,D,'3-5-2
+stefano sabelli,Genoa,D,'3-5-2
+albert gudmundsson,Genoa,A,'3-5-2
+vitor oliveira,Genoa,A,'3-5-2
+pietro terracciano,Fiorentina,P,'4-3-3
+lucas martinez quarta,Fiorentina,D,'4-3-3
+cristiano biraghi,Fiorentina,D,'4-3-3
+luca ranieri,Fiorentina,D,'4-3-3
+michael kayode,Fiorentina,D,'4-3-3
+arthur,Fiorentina,C,'4-3-3
+giacomo bonaventura,Fiorentina,C,'4-3-3
+alfred duncan,Fiorentina,C,'4-3-3
+m'bala nzola,Fiorentina,A,'4-3-3
+lucas beltran,Fiorentina,A,'4-3-3
+nicolas gonzalez,Fiorentina,A,'4-3-3
+lorenzo montipo,Verona,P,'3-5-2
+pawel dawidowicz,Verona,D,'3-5-2
+diego coppola,Verona,D,'3-5-2
+giangiacomo magnani,Verona,D,'3-5-2
+tomas suslov,Verona,C,'3-5-2
+michael folorunsho,Verona,C,'3-5-2
+suat serdar,Verona,C,'3-5-2
+marco davide faraoni,Verona,D,'3-5-2
+tijjani noslin,Verona,A,'3-5-2
+milan djuric,Verona,A,'3-5-2
+darko lazovic,Verona,A,'3-5-2
+wladimiro falcone,Lecce,P,'3-5-2
+marin pongracic,Lecce,D,'3-5-2
+federico baschirotto,Lecce,D,'3-5-2
+valentin gendrey,Lecce,D,'3-5-2
+gabriel strefezza,Lecce,C,'3-5-2
+remi oudin,Lecce,C,'3-5-2
+hamza rafia,Lecce,C,'3-5-2
+antonino gallo,Lecce,D,'3-5-2
+patrick dorgu,Lecce,D,'3-5-2
+nikola krstovic,Lecce,A,'3-5-2
+roberto piccoli,Lecce,A,'3-5-2
+elia caprile,Empoli,P,'3-5-2
+sebastiano luperto,Empoli,D,'3-5-2
+sebastian walukiewicz,Empoli,D,'3-5-2
+ardian ismajli,Empoli,D,'3-5-2
+youssef maleh,Empoli,C,'3-5-2
+razvan marin,Empoli,C,'3-5-2
+jacopo fazzini,Empoli,C,'3-5-2
+bartosz bereszynski,Empoli,D,'3-5-2
+liberato cacace,Empoli,D,'3-5-2
+matteo cancellieri,Empoli,A,'3-5-2
+m'baye niang,Empoli,A,'3-5-2
+rui patricio,Roma,P,'4-3-3
+leonardo spinazzola,Roma,D,'4-3-3
+rasmus kristensen,Roma,D,'4-3-3
+gianluca mancini,Roma,D,'4-3-3
+diego llorente,Roma,D,'4-3-3
+lorenzo pellegrini,Roma,C,'4-3-3
+houssem aouar,Roma,C,'4-3-3
+leandro paredes,Roma,C,'4-3-3
+paulo dybala,Roma,A,'4-3-3
+stephan el shaarawy,Roma,A,'4-3-3
+romelu lukaku,Roma,A,'4-3-3
+maduka okoye,Udinese,P,'3-5-2
+nehuen perez,Udinese,D,'3-5-2
+hassane kamara,Udinese,D,'3-5-2
+thomas kristensen,Udinese,D,'3-5-2
+walace,Udinese,C,'3-5-2
+roberto pereyra,Udinese,C,'3-5-2
+sandi lovric,Udinese,C,'3-5-2
+lazar samardzic,Udinese,C,'3-5-2
+keinan davis,Udinese,A,'3-5-2
+lorenzo lucca,Udinese,A,'3-5-2
+florian thauvin,Udinese,A,'3-5-2
+alex meret,Napoli,P,'4-3-3
+amir rrahmani,Napoli,D,'4-3-3
+giovanni di lorenzo,Napoli,D,'4-3-3
+juan jesus,Napoli,D,'4-3-3
+mathias olivera,Napoli,D,'4-3-3
+piotr zielinski,Napoli,C,'4-3-3
+andre-frank zambo anguissa,Napoli,C,'4-3-3
+stanislav lobotka,Napoli,C,'4-3-3
+khvicha kvaratskhelia,Napoli,A,'4-3-3
+matteo politano,Napoli,A,'4-3-3
+victor osimhen,Napoli,A,'4-3-3
+stefano turati,Frosinone,P,'3-5-2
+ilario monterisi,Frosinone,D,'3-5-2
+memeh caleb okoli,Frosinone,D,'3-5-2
+simone romagnoli,Frosinone,D,'3-5-2
+enzo barrenechea,Frosinone,C,'3-5-2
+luca mazzitelli,Frosinone,C,'3-5-2
+marco brescianini,Frosinone,C,'3-5-2
+pol lirola,Frosinone,D,'3-5-2
+nadir zortea,Frosinone,D,'3-5-2
+matias soule,Frosinone,A,'3-5-2
+walid cheddira,Frosinone,A,'3-5-2
+andrea consigli,Sassuolo,P,'3-5-2
+martin erlic,Sassuolo,D,'3-5-2
+gian marco ferrari,Sassuolo,D,'3-5-2
+jeremy toljan,Sassuolo,D,'3-5-2
+matheus henrique,Sassuolo,C,'3-5-2
+kristian thorstvedt,Sassuolo,C,'3-5-2
+nedim bajrami,Sassuolo,C,'3-5-2
+marcus holmgren pedersen,Sassuolo,D,'3-5-2
+josh doig,Sassuolo,D,'3-5-2
+andrea pinamonti,Sassuolo,A,'3-5-2
+armand lauriente,Sassuolo,A,'3-5-2
+simone scuffet,Cagliari,P,'4-2-3-1
+tommaso augello,Cagliari,D,'4-2-3-1
+gabriele zappa,Cagliari,D,'4-2-3-1
+alberto dossena,Cagliari,D,'4-2-3-1
+mateusz wieteska,Cagliari,D,'4-2-3-1
+nahitan nandez,Cagliari,C,'4-2-3-1
+antoine makoumbou,Cagliari,C,'4-2-3-1
+matteo prati,Cagliari,C,'4-2-3-1
+zito luvumbo,Cagliari,A,'4-2-3-1
+alessandro deiola,Cagliari,C,'4-2-3-1
+gianluca lapadula,Cagliari,A,'4-2-3-1
+guillermo ochoa,Salernitana,P,'4-3-3
+domagoj bradaric,Salernitana,D,'4-3-3
+alessandro zanoli,Salernitana,D,'4-3-3
+lorenzo pirola,Salernitana,D,'4-3-3
+norbert gyomber,Salernitana,D,'4-3-3
+antonio candreva,Salernitana,C,'4-3-3
+giulio maggiore,Salernitana,C,'4-3-3
+junior sambia,Salernitana,C,'4-3-3
+simy,Salernitana,A,'4-3-3
+boulaye dia,Salernitana,A,'4-3-3
+chukwubuikem ikwuemesi,Salernitana,A,'4-3-3

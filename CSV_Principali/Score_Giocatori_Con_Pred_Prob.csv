@@ -1,0 +1,690 @@
+Player,Team,Role,Score,Pred_Gol_Pesata,Prob_Gol
+vanja milinkovic-savic,Torino,P,10.0,0.0,0.0
+yann sommer,Inter,P,9.941126241517232,0.0,0.0
+wojciech szczesny,Juventus,P,8.7465731877219,0.0,0.0
+michele di gregorio,Monza,P,8.336254550357287,0.0,0.0
+lukasz skorupski,Bologna,P,8.150195496831603,0.0,0.0
+mike maignan,AC Milan,P,7.2239449912363485,0.0,0.0
+ivan provedel,Lazio,P,7.020808053570625,0.0,0.0
+marco carnesecchi,Atalanta,P,6.906655880634578,0.0,0.0
+josep martinez,Genoa,P,6.847332704148128,0.0,0.0
+pietro terracciano,Fiorentina,P,6.720596827108893,0.0,0.0
+lorenzo montipo,Verona,P,6.697227090917261,0.0,0.0
+wladimiro falcone,Lecce,P,6.397465282459216,0.0,0.0
+elia caprile,Empoli,P,6.204215540874567,0.0,0.0
+rui patricio,Roma,P,5.942654262729764,0.0,0.0
+maduka okoye,Udinese,P,5.898611298368613,0.0,0.0
+alex meret,Napoli,P,5.569637319671027,0.0,0.0
+stefano turati,Frosinone,P,5.078872859646755,0.0,0.0
+andrea consigli,Sassuolo,P,4.835737719653049,0.0,0.0
+simone scuffet,Cagliari,P,4.832591793627252,0.0,0.0
+guillermo ochoa,Salernitana,P,4.0919509235539975,0.0,0.0
+juan musso,Atalanta,P,1.6179048132668192,0.0,0.0
+mile svilar,Roma,P,1.3482540110556829,0.0,0.0
+federico ravaglia,Bologna,P,1.0786032088445463,0.0,0.0
+marco silvestri,Udinese,P,1.0786032088445463,0.0,0.0
+christos mandas,Lazio,P,1.0786032088445463,0.0,0.0
+etrit berisha,Empoli,P,1.0786032088445463,0.0,0.0
+boris radunovic,Cagliari,P,0.5393016044222732,0.0,0.0
+michele cerofolini,Frosinone,P,0.5393016044222732,0.0,0.0
+marco sportiello,AC Milan,P,0.5393016044222732,0.0,0.0
+emil audero,Inter,P,0.5393016044222732,0.0,0.0
+pierluigi gollini,Napoli,P,0.2696508022111366,0.0,0.0
+mattia perin,Juventus,P,0.2696508022111366,0.0,0.0
+benoit costil,Salernitana,P,0.2696508022111366,0.0,0.0
+lovro stubljar,Empoli,P,0.0,0.0,0.0
+luca gemello,Torino,P,0.0,0.0,0.0
+luigi sepe,Salernitana,P,0.0,0.0,0.0
+francesco rossi,Atalanta,P,0.0,0.0,0.0
+samuele perisan,Empoli,P,0.0,0.0,0.0
+pietro boer,Roma,P,0.0,0.0,0.0
+nicola bagnolini,Bologna,P,0.0,0.0,0.0
+michele avella,Frosinone,P,0.0,0.0,0.0
+nicola leali,Genoa,P,0.0,0.0,0.0
+federico brancolini,Lecce,P,0.0,0.0,0.0
+eugenio lamanna,Monza,P,0.0,0.0,0.0
+vincenzo fiorillo,Salernitana,P,0.0,0.0,0.0
+alessandro sorentino,Monza,P,0.0,0.0,0.0
+alessio cragno,Sassuolo,P,0.0,0.0,0.0
+alessio furlanetto,Lazio,P,0.0,0.0,0.0
+raffaele di gennaro,Inter,P,0.0,0.0,0.0
+daniel theiner,Sassuolo,P,0.0,0.0,0.0
+pierluigi frattali,Frosinone,P,0.0,0.0,0.0
+daniele sommariva,Genoa,P,0.0,0.0,0.0
+oliver christensen,Fiorentina,P,0.0,0.0,0.0
+noah raveyre,AC Milan,P,0.0,0.0,0.0
+daniele padelli,Udinese,P,0.0,0.0,0.0
+mattia chiesa,Verona,P,0.0,0.0,0.0
+carlo pinsoglio,Juventus,P,0.0,0.0,0.0
+mihai popa,Torino,P,0.0,0.0,0.0
+nikita contini,Napoli,P,0.0,0.0,0.0
+simone perilli,Verona,P,0.0,0.0,0.0
+marius adamonis,Lazio,P,0.0,0.0,0.0
+franz stolz,Genoa,P,0.0,0.0,0.0
+gianluca pegolo,Sassuolo,P,0.0,0.0,0.0
+giacomo toniolo,Verona,P,0.0,0.0,0.0
+simone aresti,Cagliari,P,0.0,0.0,0.0
+antonio mirante,AC Milan,P,0.0,0.0,0.0
+alexandru borbei,Lecce,P,0.0,0.0,0.0
+alessandro berardi,Verona,P,0.0,0.0,0.0
+tommaso vannucchi,Fiorentina,P,0.0,0.0,0.0
+tommaso martinelli,Fiorentina,P,0.0,0.0,0.0
+andrea bartoccioni,AC Milan,P,0.0,0.0,0.0
+stefano gori,Monza,P,0.0,0.0,0.0
+jasper samooja,Lecce,P,0.0,0.0,0.0
+lapo nava,AC Milan,P,0.0,0.0,0.0
+hubert idasiak,Napoli,P,0.0,0.0,0.0
+lorenzo torriani,AC Milan,P,0.0,0.0,0.0
+alessandro bastoni,Inter,D,10.0,0.0611,0.0213
+riccardo calafiori,Bologna,D,9.86333894871479,0.305,0.0338
+francesco acerbi,Inter,D,9.84008919094826,0.0861,0.0749
+jhon lucumi,Bologna,D,9.72241772662444,0.0,0.0
+amir rrahmani,Napoli,D,9.582109297425967,0.1003,0.0599
+giovanni di lorenzo,Napoli,D,9.479550247988536,0.0611,0.0213
+gleison bremer,Juventus,D,9.422335055170183,0.1088,0.0749
+raoul bellanova,Torino,D,9.29246589541238,0.0611,0.0213
+benjamin pavard,Inter,D,9.161980795419009,0.0,0.0
+danilo,Juventus,D,9.037308864594127,0.0611,0.0213
+federico dimarco,Inter,D,9.02296243447714,0.1111,0.1433
+stefan de vrij,Inter,D,8.925405224846113,0.0611,0.0213
+carlos augusto,Inter,D,8.892410542266768,0.0,0.0
+andrea cambiaso,Juventus,D,8.790382683221633,0.0736,0.0463
+pablo mari,Monza,D,8.778438869281295,0.0,0.0
+theo hernandez,AC Milan,D,8.617644532326231,0.1111,0.1433
+sam beukema,Bologna,D,8.608735646061627,0.0611,0.0213
+alessio romagnoli,Lazio,D,8.571252914841601,0.0,0.0
+diego llorente,Roma,D,8.54083732812151,0.0611,0.0213
+berat djimsiti,Atalanta,D,8.511483157677478,0.0,0.0
+gianluca mancini,Roma,D,8.507971483578835,0.0986,0.1073
+fikayo tomori,AC Milan,D,8.49199394259696,0.0986,0.1073
+ricardo rodriguez,Torino,D,8.475810136385581,0.0753,0.0213
+stefan posch,Bologna,D,8.350961345151035,0.0903,0.0213
+marin pongracic,Lecce,D,8.323678824851514,0.0,0.0
+armando izzo,Monza,D,8.306744275643984,0.0,0.0
+adam marusic,Lazio,D,8.253466333630493,0.0611,0.0213
+patric,Lazio,D,8.192105518088058,0.1028,0.0463
+victor kristiansen,Bologna,D,8.183824831470309,0.0,0.0
+nicolo casale,Lazio,D,8.158382669627143,0.0,0.0
+lucas martinez quarta,Fiorentina,D,8.154400264593122,0.1425,0.1229
+sebastiano luperto,Empoli,D,8.13698629118237,0.0611,0.0213
+federico gatti,Juventus,D,8.095254772896249,0.0986,0.0894
+mario gila,Lazio,D,8.083206081342139,0.0,0.0
+alessandro buongiorno,Torino,D,8.048149317558359,0.0861,0.0749
+luca caldirola,Monza,D,8.040071088899527,0.0611,0.0213
+evan n'dicka,Roma,D,7.998016955194764,0.0,0.0
+giorgio scalvini,Atalanta,D,7.94651731312706,0.0611,0.0213
+matteo darmian,Inter,D,7.926289056061991,0.0736,0.0463
+juan jesus,Napoli,D,7.896534639952048,0.0611,0.0213
+alessandro florenzi,AC Milan,D,7.843373746127305,0.0838,0.0213
+malick thiaw,AC Milan,D,7.783791103621634,0.0,0.0
+luca ranieri,Fiorentina,D,7.760450326706265,0.0736,0.0463
+alberto dossena,Cagliari,D,7.719904341717335,0.0736,0.0347
+nehuen perez,Udinese,D,7.698919529223019,0.0736,0.0463
+federico baschirotto,Lecce,D,7.677065440708275,0.0,0.0
+nikola milenkovic,Fiorentina,D,7.646326908606096,0.0,0.0
+cristiano biraghi,Fiorentina,D,7.6193473962816975,0.0878,0.0347
+isak hien,Atalanta,D,7.594731336010501,0.0,0.0
+davide calabria,AC Milan,D,7.580463754467372,0.0,0.0
+danilo d'ambrosio,Monza,D,7.561162631244754,0.0,0.0
+sebastian walukiewicz,Empoli,D,7.558641888152695,0.0,0.0
+valentino lazaro,Torino,D,7.532585258218588,0.0,0.0
+leo stigard,Napoli,D,7.53023009332436,0.0,0.0
+sead kolasinac,Atalanta,D,7.524615117971723,0.0611,0.0213
+andrea carboni,Monza,D,7.4922497391477085,0.0611,0.0213
+denzel dumfries,Inter,D,7.454375645893141,0.1128,0.1073
+mathias olivera,Napoli,D,7.444070785795101,0.0925,0.0213
+michael kayode,Fiorentina,D,7.440304494130499,0.0611,0.0213
+mergim vojvoda,Torino,D,7.430012109189082,0.0,0.0
+samuele birindelli,Monza,D,7.428967495667219,0.0,0.0
+matteo ruggeri,Atalanta,D,7.3791469233828995,0.0,0.0
+pawel dawidowicz,Verona,D,7.352442397522099,0.0,0.0
+memeh caleb okoli,Frosinone,D,7.312237226705216,0.0,0.0
+ardian ismajli,Empoli,D,7.281676608357567,0.0,0.0
+koni de winter,Genoa,D,7.265257347842184,0.0,0.0
+elseid hysaj,Lazio,D,7.241908296458741,0.0,0.0
+johan vasquez,Genoa,D,7.198020340112135,0.0611,0.0213
+thomas kristensen,Udinese,D,7.168827623322794,0.0,0.0
+simon kjr,AC Milan,D,7.151062264218666,0.0,0.0
+giangiacomo magnani,Verona,D,7.1264186773811256,0.0,0.0
+matteo lovato,Torino,D,7.10320062148768,0.0,0.0
+jaka bijol,Udinese,D,7.025523494026534,0.0,0.0
+antonino gallo,Lecce,D,6.977015237149951,0.0,0.0
+giorgos kyriakopoulos,Monza,D,6.976558669261159,0.0,0.0
+fabiano parisi,Fiorentina,D,6.9553786706947465,0.0,0.0
+valentin gendrey,Lecce,D,6.937158063555627,0.0736,0.0463
+mario rui,Napoli,D,6.932105815486654,0.0,0.0
+ilario monterisi,Frosinone,D,6.912791151071648,0.0736,0.0463
+simone romagnoli,Frosinone,D,6.898804254207093,0.0611,0.0213
+adam masina,Torino,D,6.883690278339764,0.0,0.0
+hassane kamara,Udinese,D,6.871374291008642,0.0611,0.0213
+radu dragusin,Genoa,D,6.867182714528568,0.0736,0.0463
+domagoj bradaric,Salernitana,D,6.857367634409743,0.0,0.0
+martin erlic,Sassuolo,D,6.787276709338567,0.0611,0.0213
+joao ferreira,Udinese,D,6.761606872714297,0.0,0.0
+tommaso augello,Cagliari,D,6.746085950384821,0.0611,0.0213
+leonardo spinazzola,Roma,D,6.736114353372167,0.0611,0.0213
+bartosz bereszynski,Empoli,D,6.639543214132272,0.0,0.0
+pedro pereira,Monza,D,6.607693377818447,0.0,0.0
+gian marco ferrari,Sassuolo,D,6.584827075654534,0.0611,0.0213
+diego coppola,Verona,D,6.583032480590638,0.0736,0.0463
+mattia bani,Genoa,D,6.548788962495147,0.0736,0.0463
+gabriele zappa,Cagliari,D,6.522191801664897,0.0611,0.0213
+jeremy toljan,Sassuolo,D,6.520620198439282,0.0,0.0
+ruan tressoldi,Sassuolo,D,6.502189011163993,0.0,0.0
+pol lirola,Frosinone,D,6.493775590402681,0.0736,0.0463
+rasmus kristensen,Roma,D,6.474366201095471,0.0611,0.0213
+lorenzo pirola,Salernitana,D,6.442527228193719,0.0,0.0
+juan cabal,Verona,D,6.364828627726462,0.0,0.0
+nadir zortea,Frosinone,D,6.350066139079727,0.105,0.0347
+patrick dorgu,Lecce,D,6.347285600533715,0.0736,0.0463
+liberato cacace,Empoli,D,6.343392399849546,0.0,0.0
+charalambos lykogiannis,Bologna,D,6.339405603763447,0.0611,0.0213
+marcus holmgren pedersen,Sassuolo,D,6.129507286303051,0.0,0.0
+pasquale mazzocchi,Napoli,D,6.125828168443989,0.0,0.0
+mateusz wieteska,Cagliari,D,6.115944900108951,0.0,0.0
+hans hateboer,Atalanta,D,6.068035780713746,0.0,0.0
+alessandro vogliacco,Genoa,D,5.9390049184846925,0.0,0.0
+filippo terracciano,AC Milan,D,5.935084064325161,0.0,0.0
+marco davide faraoni,Verona,D,5.908289065024308,0.0,0.0
+norbert gyomber,Salernitana,D,5.880740505347071,0.0,0.0
+luca pellegrini,Lazio,D,5.765148508763369,0.0611,0.0213
+aaron caricol,Genoa,D,5.60883295609056,0.0,0.0
+paulo azzi,Cagliari,D,5.589455014838396,0.0,0.0
+festy ebosele,Udinese,D,5.552815314853555,0.0,0.0
+jordan zemura,Udinese,D,5.511032956814196,0.0611,0.0213
+josh doig,Sassuolo,D,5.493828332522123,0.0,0.0
+alessandro zanoli,Salernitana,D,5.317493567321279,0.0,0.0
+kingsley ehizibue,Udinese,D,5.274571731267931,0.0,0.0
+emil holm,Atalanta,D,5.2456772126018665,0.0611,0.0213
+stefano sabelli,Genoa,D,5.213741826917952,0.0,0.0
+giuseppe pezzella,Empoli,D,4.995789291985225,0.0,0.0
+yann aurel bisseck,Inter,D,1.2174509156110744,0.0736,0.0463
+lorenzo de silvestri,Bologna,D,0.9947941171410276,0.0736,0.0463
+brandon soppy,Torino,D,0.9466169151328888,0.0,0.0
+alessandro dellavalle,Torino,D,0.9388043958883258,0.0,0.0
+david zima,Torino,D,0.9388043958883258,0.0,0.0
+wilfried singo,Torino,D,0.9388043958883258,0.0,0.0
+brian bayeye,Torino,D,0.9388043958883258,0.0,0.0
+perr schuurs,Torino,D,0.914064751613876,0.0611,0.0213
+koffi djidji,Torino,D,0.8893251073394265,0.0,0.0
+adama soumaoro,Bologna,D,0.8867209342579054,0.0,0.0
+mihajlo ilic,Bologna,D,0.8867209342579054,0.0,0.0
+daniele rugani,Juventus,D,0.8867209342579054,0.0736,0.0463
+alex sandro,Juventus,D,0.8828146746356241,0.0898,0.1109
+tommaso corazza,Bologna,D,0.8710958957687793,0.0,0.0
+saba sazonov,Torino,D,0.8541687707388927,0.0,0.0
+mattia de sciglio,Juventus,D,0.8346374726274851,0.0,0.0
+tiago djalo,Juventus,D,0.8346374726274851,0.0,0.0
+mitchel bakker,Atalanta,D,0.76953314558946,0.0611,0.0213
+giovanni bonfanti,Atalanta,D,0.7317726359074052,0.0,0.0
+jose luis palomino,Atalanta,D,0.7304705493666446,0.0,0.0
+jan-carlo simic,AC Milan,D,0.6861996069807874,0.0611,0.0213
+giulio donati,Monza,D,0.6861996069807874,0.0,0.0
+dimitrije kamenovic,Lazio,D,0.6783870877362242,0.0,0.0
+rick karsdorp,Roma,D,0.6666683088693798,0.0,0.0
+matteo gabbia,AC Milan,D,0.6653662223286194,0.0963,0.0463
+pierre kalulu,AC Milan,D,0.6367203184318881,0.0,0.0
+mattia caldara,AC Milan,D,0.6289077991873252,0.0,0.0
+valentin antov,Monza,D,0.626303626105804,0.0,0.0
+mario sampirisi,Monza,D,0.626303626105804,0.0,0.0
+clinton nsiala-makengo,AC Milan,D,0.626303626105804,0.0,0.0
+davide bartesaghi,AC Milan,D,0.626303626105804,0.0,0.0
+armando anastasio,Monza,D,0.626303626105804,0.0,0.0
+davide bettella,Monza,D,0.626303626105804,0.0,0.0
+alejandro jimenez,AC Milan,D,0.6197931934020015,0.0,0.0
+rafael toloi,Atalanta,D,0.5937514625867915,0.0,0.0
+chris smalling,Roma,D,0.5768243375569049,0.0,0.0
+lovro golic,Roma,D,0.5742201644753837,0.0,0.0
+mehmet zeki celik,Roma,D,0.5716159913938628,0.0,0.0
+angelino,Roma,D,0.5638034721492998,0.0,0.0
+tyronne ebuehi,Empoli,D,0.5442721740378921,0.0,0.0
+riccardo marchizza,Frosinone,D,0.5234387893857239,0.0,0.0
+dean huijsen,Roma,D,0.520834616304203,0.0736,0.0463
+ridgeciano haps,Genoa,D,0.4817720200813876,0.0,0.0
+davide biraschi,Genoa,D,0.4713553277553036,0.0611,0.0142
+luca marianucci,Empoli,D,0.4700532412145431,0.0,0.0
+petar stojanovic,Empoli,D,0.4700532412145431,0.0,0.0
+saba goglichidze,Empoli,D,0.4700532412145431,0.0,0.0
+antonio tikvic,Udinese,D,0.4700532412145431,0.0,0.0
+axel guessand,Udinese,D,0.4700532412145431,0.0,0.0
+james abankwah,Udinese,D,0.4700532412145431,0.0,0.0
+gabriele guarino,Empoli,D,0.4700532412145431,0.0,0.0
+enzo ebosse,Udinese,D,0.4700532412145431,0.0,0.0
+samuel john nwachukwu,Udinese,D,0.4700532412145431,0.0,0.0
+dodo,Fiorentina,D,0.4492198565623751,0.0,0.0
+ruben vinagre,Verona,D,0.4427094238585724,0.0,0.0
+fabien centonze,Verona,D,0.4388031642362908,0.0,0.0
+alan matturro,Genoa,D,0.4192718661248834,0.0,0.0
+nicolo calabrese,Verona,D,0.4179697795841228,0.0,0.0
+denis cazzadori,Verona,D,0.4179697795841228,0.0,0.0
+silvan hefti,Genoa,D,0.4179697795841228,0.0,0.0
+federico ceccherini,Verona,D,0.4179697795841228,0.0,0.0
+christian dalle mura,Fiorentina,D,0.4179697795841228,0.0,0.0
+christian corradi,Verona,D,0.4179697795841228,0.0,0.0
+djed spence,Genoa,D,0.4075530872580387,0.0,0.0
+christian kabasele,Udinese,D,0.3971363949319547,0.0611,0.0213
+giorgio cittadini,Genoa,D,0.3919280487689127,0.0,0.0
+pietro comuzzo,Fiorentina,D,0.3919280487689127,0.0,0.0
+bruno amione,Verona,D,0.372396750657505,0.0,0.0
+kastriot dermaku,Lecce,D,0.3658863179537025,0.0,0.0
+mats lemmens,Lecce,D,0.3658863179537025,0.0,0.0
+zinedin smajlovic,Lecce,D,0.3658863179537025,0.0,0.0
+lautaro gianetti,Udinese,D,0.3606779717906606,0.0611,0.0213
+ahmed touba,Lecce,D,0.3398445871384924,0.0,0.0
+lorenzo venuti,Lecce,D,0.3320320678939293,0.0,0.0
+emanuele valeri,Frosinone,D,0.3307299813531688,0.0,0.0
+kevin bonifazi,Frosinone,D,0.3164070294048032,0.0,0.0
+sergio kalaj,Frosinone,D,0.3138028563232822,0.0,0.0
+przemyslaw szyminski,Frosinone,D,0.3138028563232822,0.0,0.0
+anthony oyono,Frosinone,D,0.2838548658857905,0.0,0.0
+mateus lusuardi,Frosinone,D,0.2630214812336224,0.0,0.0
+elio capradossi,Cagliari,D,0.261719394692862,0.0,0.0
+giorgio altare,Cagliari,D,0.261719394692862,0.0,0.0
+natan,Napoli,D,0.2617193946928619,0.0,0.0
+adam obert,Cagliari,D,0.2539068754482989,0.0,0.0
+pantelis hatzidiakos,Cagliari,D,0.2317714042553702,0.0,0.0
+alessandro di pardo,Cagliari,D,0.2304693177146098,0.0,0.0
+yerry mina,Cagliari,D,0.2291672311738492,0.0963,0.0463
+matias vina,Sassuolo,D,0.2018234138178786,0.0,0.0
+gerardo fusco,Salernitana,D,0.1888025484102735,0.0,0.0
+edoardo goldaniga,Cagliari,D,0.1744795964619079,0.0,0.0
+filippo missori,Sassuolo,D,0.1718754233803869,0.0,0.0
+kevin miranda,Sassuolo,D,0.1575524714320214,0.0,0.0
+mattia viti,Sassuolo,D,0.1341149136983322,0.0898,0.1109
+jerome boateng,Salernitana,D,0.1119794425054036,0.0,0.0
+konstantinos manolas,Salernitana,D,0.1093752694238826,0.0,0.0
+dylan bronn,Salernitana,D,0.1054690098016011,0.0,0.0
+emanuele elia,Salernitana,D,0.1054690098016011,0.0,0.0
+marash kumbulla,Sassuolo,D,0.1054690098016011,0.0,0.0
+flavius daniliuc,Salernitana,D,0.0664064135787858,0.0,0.0
+marco pellegrino,Salernitana,D,0.0559897212527018,0.0,0.0
+triantafyllos pasalidis,Salernitana,D,0.0351563366005336,0.0,0.0
+niccolo pierozzi,Salernitana,D,0.0065104327038025,0.0903,0.0213
+federico fazio,Salernitana,D,0.0,0.0611,0.0213
+hakan calhanoglu,Inter,C,10.0,0.2278,0.3184
+teun koopmeiners,Atalanta,C,8.678701709568648,0.2213,0.3538
+luis alberto,Lazio,C,8.240300382518294,0.1111,0.1229
+antonio candreva,Salernitana,C,7.790139201923737,0.1236,0.1334
+matteo pessina,Monza,C,7.662182403895132,0.155,0.1603
+andrea colpani,Monza,C,7.61769439252209,0.1611,0.2303
+arthur,Fiorentina,C,7.412418368645463,0.264,0.1758
+lazar samardzic,Udinese,C,7.407761092758207,0.2023,0.1603
+tijjani reijnders,AC Milan,C,7.374313759986805,0.1153,0.0749
+mario pasalic,Atalanta,C,7.367436611029462,0.2275,0.2377
+giacomo bonaventura,Fiorentina,C,7.352489920977727,0.1773,0.2637
+nicolo barella,Inter,C,7.30139511463939,0.0736,0.0463
+ivan ilic,Torino,C,7.26598725773892,0.1003,0.0749
+henrikh mkhitaryan,Inter,C,7.13269955127861,0.0736,0.0338
+piotr zielinski,Napoli,C,7.109329410033326,0.0861,0.0749
+felipe anderson,Lazio,C,7.096368092898793,0.0986,0.1073
+lewis ferguson,Bologna,C,7.006488504037295,0.1236,0.1831
+lorenzo pellegrini,Roma,C,6.794004829979079,0.1778,0.2197
+adrien rabiot,Juventus,C,6.522715758283561,0.1403,0.1229
+leandro paredes,Roma,C,6.499368223675822,0.0861,0.0749
+andre-frank zambo anguissa,Napoli,C,6.45236427250458,0.0,0.0
+yacine adli,AC Milan,C,6.420345786191055,0.0611,0.0213
+bryan cristante,Roma,C,6.310263186350888,0.0611,0.0213
+ondrej duda,Verona,C,6.210522907200916,0.0611,0.0213
+alfred duncan,Fiorentina,C,6.12211604101011,0.0736,0.0463
+remi oudin,Lecce,C,6.116096360374965,0.0861,0.0749
+weston mckennie,Juventus,C,6.097838219611646,0.0,0.0
+stanislav lobotka,Napoli,C,6.096000622931142,0.0,0.0
+mattia zaccagni,Lazio,C,6.070135070936132,0.215,0.1946
+ederson,Atalanta,C,6.047737755632112,0.1236,0.1603
+manuel locatelli,Juventus,C,5.967907033146688,0.0611,0.0213
+kristian thorstvedt,Sassuolo,C,5.888013530444892,0.1425,0.1229
+ruben loftus-cheek,AC Milan,C,5.879509444111052,0.1236,0.1334
+matheus henrique,Sassuolo,C,5.833697267971192,0.0736,0.0347
+daichi kamada,Lazio,C,5.799796794509621,0.0878,0.0463
+remo freuler,Bologna,C,5.781805983920597,0.0611,0.0213
+sandi lovric,Udinese,C,5.777792164110744,0.0611,0.0213
+roberto gagliardini,Monza,C,5.703664855606901,0.0611,0.0213
+ismael bennacer,AC Milan,C,5.675288074386936,0.1523,0.0347
+filip kostic,Juventus,C,5.556861424282179,0.0,0.0
+matteo guendouzi,Lazio,C,5.549007973021652,0.0736,0.0463
+nicolas viola,Cagliari,C,5.512699491542781,0.1111,0.1229
+marco brescianini,Frosinone,C,5.463870326944722,0.1175,0.0749
+samuele ricci,Torino,C,5.446372192948832,0.0611,0.0213
+roberto pereyra,Udinese,C,5.441680791118274,0.0986,0.1073
+kristjan asllani,Inter,C,5.402988430453615,0.0611,0.0213
+marten de roon,Atalanta,C,5.402941797835493,0.0,0.0
+nahitan nandez,Cagliari,C,5.381050385756043,0.1028,0.0463
+razvan marin,Empoli,C,5.358576940183092,0.0,0.0
+valentin carboni,Monza,C,5.343029826889025,0.0861,0.0749
+davide frattesi,Inter,C,5.335925583046782,0.1528,0.1831
+michel aebischer,Bologna,C,5.320367732114135,0.0,0.0
+tomas suslov,Verona,C,5.303053228194105,0.1375,0.3327
+matias vecino,Lazio,C,5.286469109969563,0.215,0.1603
+enzo barrenechea,Frosinone,C,5.240230513814849,0.0,0.0
+maxime lopez,Fiorentina,C,5.20438778255191,0.0,0.0
+grigoris kastanos,Salernitana,C,5.199983499417313,0.0861,0.0749
+milan badelj,Genoa,C,5.165731358007172,0.0903,0.0213
+rolando mandragora,Fiorentina,C,5.139622049274291,0.0861,0.0599
+luca mazzitelli,Frosinone,C,5.103031036251568,0.1361,0.1712
+walace,Udinese,C,5.077038771893244,0.0736,0.0463
+davide zappacosta,Atalanta,C,4.999450385124126,0.0736,0.0463
+giulio maggiore,Salernitana,C,4.967073278138196,0.1128,0.1073
+loum tchaouna,Salernitana,C,4.941976783793706,0.1213,0.1073
+daniel boloca,Sassuolo,C,4.913681275389887,0.0,0.0
+antoine makoumbou,Cagliari,C,4.907186937647034,0.0,0.0
+gianluca gaetano,Cagliari,C,4.906114284579282,0.1236,0.1334
+antonin barak,Fiorentina,C,4.893110304873073,0.105,0.0463
+nedim bajrami,Sassuolo,C,4.888083197560489,0.0736,0.0463
+jonathan ikone,Fiorentina,C,4.864263515408084,0.0986,0.0894
+giovanni fabbian,Bologna,C,4.861222912373084,0.1236,0.1831
+morten frendrup,Genoa,C,4.843752013307233,0.105,0.0463
+nicolo rovella,Lazio,C,4.828671143913633,0.0,0.0
+francesco gelli,Frosinone,C,4.827520982374294,0.0,0.0
+edoardo bove,Roma,C,4.795176993392412,0.0,0.0
+yunus musah,AC Milan,C,4.67621181574357,0.0,0.0
+ruslan malinovsky,Genoa,C,4.67047454323114,0.1273,0.3219
+adrien tameze,Torino,C,4.664350715729848,0.0,0.0
+danilo cataldi,Lazio,C,4.618573076937065,0.0611,0.0213
+youssef maleh,Empoli,C,4.60950224076004,0.0,0.0
+reinier,Frosinone,C,4.603497514652185,0.0736,0.0463
+nikola moro,Bologna,C,4.525944488037703,0.0611,0.0213
+manuel lazzari,Lazio,C,4.500337894150118,0.0,0.0
+kevin strootman,Genoa,C,4.444744840054523,0.0,0.0
+fabio miretti,Juventus,C,4.432896102724298,0.0611,0.0213
+michael folorunsho,Verona,C,4.430749068692927,0.1128,0.1073
+kacper urbanski,Bologna,C,4.425946937535791,0.0,0.0
+matteo prati,Cagliari,C,4.322342363278718,0.0753,0.0213
+lassana coulibaly,Salernitana,C,4.2841864731392585,0.0,0.0
+joan gonzalez,Lecce,C,4.267975395289502,0.0,0.0
+jacopo fazzini,Empoli,C,4.195318731867274,0.0611,0.0213
+mohamed kaba,Lecce,C,4.154481106207489,0.0,0.0
+jens-lys cajuste,Napoli,C,4.151743522624434,0.0,0.0
+suat serdar,Verona,C,4.146367750610848,0.0,0.0
+alexis blin,Lecce,C,4.14332321866978,0.0,0.0
+gabriel strefezza,Lecce,C,4.139890959239084,0.0611,0.0213
+warren bondo,Monza,C,4.139024789727004,0.0611,0.0213
+martin payero,Udinese,C,4.123479815732578,0.105,0.0463
+ylber ramadani,Lecce,C,4.112758962427168,0.0611,0.0213
+timothy weah,Juventus,C,4.099402286262943,0.0,0.0
+morten thorsby,Genoa,C,4.077748274733006,0.105,0.0463
+alberto grassi,Empoli,C,4.0675161074040975,0.0,0.0
+hamza rafia,Lecce,C,3.936898267465148,0.0611,0.0213
+ibrahim sulemana,Cagliari,C,3.9219479982005527,0.0736,0.0463
+gaetano oristanio,Cagliari,C,3.897394104297538,0.0611,0.0213
+nicola zalewski,Roma,C,3.873978688066596,0.0,0.0
+karol linetty,Torino,C,3.85431362866672,0.0,0.0
+uros racic,Sassuolo,C,3.852327782635176,0.0611,0.0213
+jesper lindstrm,Napoli,C,3.77706076224793,0.0,0.0
+jean-daniel akpa-akpro,Monza,C,3.44364215039701,0.0,0.0
+alessandro deiola,Cagliari,C,3.409035605203178,0.0898,0.1109
+mateusz legowski,Salernitana,C,3.293745703196102,0.0,0.0
+abdou harroui,Frosinone,C,1.1034639194197575,0.0861,0.045
+houssem aouar,Roma,C,0.6458134210476904,0.1273,0.2146
+nicolo fagioli,Juventus,C,0.607542996096716,0.0,0.0
+juan cuadrado,Inter,C,0.5628941669872463,0.0,0.0
+junior sambia,Salernitana,C,0.5597049649079984,0.0898,0.1109
+jakub jankto,Cagliari,C,0.5007047264419131,0.0611,0.0213
+arijon ibrahimovic,Frosinone,C,0.4959209233230413,0.0,0.0
+gaetano castrovilli,Fiorentina,C,0.4943263222834173,0.0838,0.0213
+viktor kovalenko,Empoli,C,0.4911371202041695,0.0611,0.0213
+simone bastoni,Empoli,C,0.4735965087683064,0.0611,0.0213
+toma basic,Salernitana,C,0.4688127056494344,0.0,0.0
+hans nicolussi caviglia,Juventus,C,0.4241638765399646,0.0,0.0
+oussama el azzouzi,Bologna,C,0.4177854723814689,0.0736,0.0463
+szymon zurkowski,Empoli,C,0.3683528401531271,0.0986,0.0508
+martin hongla,Verona,C,0.3524068297568878,0.0,0.0
+eljif elmas,Napoli,C,0.34921762767764,0.0736,0.0463
+agustin martegani,Salernitana,C,0.326893213122905,0.0611,0.0213
+hamed traore,Napoli,C,0.3205148089644093,0.0,0.0
+gvidas gineitis,Torino,C,0.2981903944096743,0.0,0.0
+oier zarraga,Udinese,C,0.2806497829738111,0.0736,0.0463
+alberto cerri,Empoli,C,0.2726767777756915,0.0,0.0
+emil bohinen,Salernitana,C,0.261514570498324,0.0,0.0
+emanuel vignato,Salernitana,C,0.2567307673794522,0.0,0.0
+samuel vignato,Monza,C,0.2423793580228368,0.0,0.0
+carlos alcaraz,Juventus,C,0.240784756983213,0.0,0.0
+berkan kutlu,Genoa,C,0.239190155943589,0.0,0.0
+medon berisha,Lecce,C,0.2344063528247172,0.0,0.0
+stefano sensi,Inter,C,0.2296225497058454,0.0,0.0
+pedro obiang,Sassuolo,C,0.2025143320322387,0.0,0.0
+tajon buchanan,Inter,C,0.1977305289133669,0.0903,0.0213
+michel ndary adopo,Atalanta,C,0.1913521247548712,0.0,0.0
+iron gomis,Salernitana,C,0.173811513319008,0.0,0.0
+luca garritano,Frosinone,C,0.1722169122793841,0.0,0.0
+marco mancosu,Cagliari,C,0.1690277102001363,0.0,0.0
+riccardo saponara,Verona,C,0.1658385081208884,0.0,0.0
+luca lipani,Sassuolo,C,0.1610547050020166,0.0,0.0
+filippo ranocchia,Empoli,C,0.1451086946057773,0.0,0.0
+rade krunic,AC Milan,C,0.1387302904472816,0.0,0.0
+renato sanches,Roma,C,0.1371356894076577,0.0611,0.0213
+davy klaassen,Inter,C,0.1339464873284098,0.0,0.0
+charlys,Verona,C,0.1195950779717945,0.0,0.0
+daniel silva,Verona,C,0.1068382696548031,0.0,0.0
+tommaso pobega,AC Milan,C,0.1020544665359313,0.0,0.0
+alejandro gomez,Monza,C,0.1020544665359313,0.0,0.0
+paul pogba,Juventus,C,0.0924868602981877,0.0,0.0
+nicolas dominguez,Bologna,C,0.0924868602981877,0.0,0.0
+riccardo pagano,Roma,C,0.0924868602981877,0.0,0.0
+simone verdi,Torino,C,0.0877030571793159,0.0,0.0
+ebenezer akinsanmiro,Inter,C,0.0877030571793159,0.0,0.0
+jose machin,Monza,C,0.0701624457434527,0.0,0.0
+elayis tavsan,Verona,C,0.0605948395057092,0.0,0.0
+lorenzo amatucci,Fiorentina,C,0.0605948395057092,0.0,0.0
+kevin leone,Sassuolo,C,0.0558110363868374,0.0,0.0
+joselito,Verona,C,0.0558110363868374,0.0,0.0
+niccolo pisilli,Roma,C,0.0558110363868374,0.0,0.0
+francesco d'alessio,Roma,C,0.0558110363868374,0.0,0.0
+iwo kaczmarski,Empoli,C,0.0558110363868374,0.0,0.0
+lucien agoume,Inter,C,0.0558110363868374,0.0,0.0
+karlo lulic,Frosinone,C,0.0558110363868374,0.0,0.0
+karim zedadka,Napoli,C,0.0558110363868374,0.0,0.0
+liam henderson,Empoli,C,0.0558110363868374,0.0,0.0
+antonio pio iervolino,Salernitana,C,0.0558110363868374,0.0,0.0
+kevin zeroli,AC Milan,C,0.0558110363868374,0.0,0.0
+antonino viola,Lecce,C,0.0558110363868374,0.0,0.0
+andre anderson,Lazio,C,0.0558110363868374,0.0,0.0
+lorenzo ignacchiti,Empoli,C,0.0558110363868374,0.0,0.0
+justin kumi,Sassuolo,C,0.0558110363868374,0.0,0.0
+reda belahyane,Verona,C,0.0558110363868374,0.0,0.0
+leander dendoncker,Napoli,C,0.0558110363868374,0.0,0.0
+luca belardinelli,Empoli,C,0.0558110363868374,0.0,0.0
+orir johann helgason,Lecce,C,0.0558110363868374,0.0,0.0
+niklas pyyhtia,Bologna,C,0.0558110363868374,0.0,0.0
+franco carboni,Monza,C,0.0558110363868374,0.0,0.0
+david pejicic,Udinese,C,0.0558110363868374,0.0,0.0
+quina,Udinese,C,0.0558110363868374,0.0,0.0
+christos papadopoulos,Genoa,C,0.0558110363868374,0.0,0.0
+christos kourfalidis,Cagliari,C,0.0558110363868374,0.0,0.0
+daniel samek,Lecce,C,0.0558110363868374,0.0,0.0
+marcin listkowski,Lecce,C,0.0558110363868374,0.0,0.0
+marco ballarini,Udinese,C,0.0558110363868374,0.0,0.0
+gino infantino,Fiorentina,C,0.0558110363868374,0.0,0.0
+catalin vulturar,Lecce,C,0.0558110363868374,0.0,0.0
+giacomo faticanti,Lecce,C,0.0558110363868374,0.0,0.0
+mamadou coulibaly,Salernitana,C,0.0558110363868374,0.0,0.0
+marko rog,Cagliari,C,0.0558110363868374,0.0,0.0
+giovanni crociata,Empoli,C,0.0558110363868374,0.0,0.0
+alessandro sodero,Empoli,C,0.0558110363868374,0.0,0.0
+pablo galdames,Genoa,C,0.0558110363868374,0.0,0.0
+filip jagiello,Genoa,C,0.0558110363868374,0.0,0.0
+nicola patane,Verona,C,0.0558110363868374,0.0,0.0
+mattia mannini,Roma,C,0.0558110363868374,0.0,0.0
+mattia valoti,Monza,C,0.0558110363868374,0.0,0.0
+etienne camara,Udinese,C,0.0558110363868374,0.0,0.0
+domingos quina,Udinese,C,0.0558110363868374,0.0,0.0
+victor eletu,AC Milan,C,0.0558110363868374,0.0,0.0
+nunzio lella,Cagliari,C,0.0558110363868374,0.0,0.0
+nikola sekulov,Juventus,C,0.0558110363868374,0.0,0.0
+luka romero,AC Milan,C,0.0334866218321024,0.0,0.0
+nicolas haas,Empoli,C,0.0287028187132306,0.0,0.0
+diego demme,Napoli,C,0.0239190155943589,0.0,0.0
+mehdi bourabia,Frosinone,C,0.0127568083169914,0.0,0.0
+joseph boende,Juventus,C,0.0,0.0,0.0
+lautaro martinez,Inter,A,10.0,0.3778,0.5038
+albert gudmundsson,Genoa,A,9.217349622639194,0.2425,0.391
+matias soule,Frosinone,A,8.382918373067875,0.18,0.2472
+paulo dybala,Roma,A,8.194920748790997,0.2425,0.2724
+khvicha kvaratskhelia,Napoli,A,8.164231058664397,0.2003,0.3206
+olivier giroud,AC Milan,A,7.9886033517632,0.375,0.68
+dusan vlahovic,Juventus,A,7.74467915127962,0.2486,0.3238
+rafael leao,AC Milan,A,7.737022862058283,0.3515,0.5024
+marcus thuram,Inter,A,7.660261160360614,0.2403,0.3519
+christian pulisic,AC Milan,A,7.638988296978675,0.15,0.3184
+victor osimhen,Napoli,A,7.341955970620807,0.3402,0.3169
+charles de ketelaere,Atalanta,A,7.33663529112349,0.1125,0.2015
+ademola lookman,Atalanta,A,7.261281116084548,0.2775,0.2711
+matteo politano,Napoli,A,7.204012116395615,0.1486,0.1923
+duvan zapata,Torino,A,7.111918227469753,0.2253,0.4004
+joshua zirkzee,Bologna,A,7.013123983893323,0.1861,0.3645
+romelu lukaku,Roma,A,6.910330888800196,0.2529,0.4397
+gianluca scamacca,Atalanta,A,6.885200374732376,0.325,0.513
+nicolas gonzalez,Fiorentina,A,6.741926252539724,0.4,0.3823
+federico chiesa,Juventus,A,6.523830598716707,0.2125,0.4187
+riccardo orsolini,Bologna,A,6.3329608296788615,0.1736,0.1744
+armand lauriente,Sassuolo,A,5.762828461167271,0.1338,0.0995
+andrea pinamonti,Sassuolo,A,5.71271982919851,0.2278,0.3538
+nikola krstovic,Lecce,A,5.46031290576126,0.2402,0.126
+milan djuric,Verona,A,5.402852581068134,0.2525,0.2674
+lorenzo lucca,Udinese,A,5.372352538779441,0.1653,0.2268
+giacomo raspadori,Napoli,A,5.369526895211365,0.1111,0.1229
+walid cheddira,Frosinone,A,5.348300417528841,0.1503,0.1712
+alexis saelemaekers,Bologna,A,5.237712933132613,0.13,0.0894
+aleksey miranchuk,Atalanta,A,5.217060623788722,0.0861,0.0749
+florian thauvin,Udinese,A,5.151711554124309,0.0986,0.0894
+ciro immobile,Lazio,A,5.087514727829896,0.1588,0.1764
+cyril ngonge,Napoli,A,4.990652635055614,0.1236,0.1603
+lucas beltran,Fiorentina,A,4.86950125264437,0.1236,0.1603
+nikola vlasic,Torino,A,4.802855811270323,0.0861,0.0749
+dany mota,Monza,A,4.6930126924409725,0.0986,0.1073
+antonio sanabria,Torino,A,4.675122241620843,0.1111,0.1433
+luka jovic,AC Milan,A,4.657185663706282,0.1236,0.1603
+andrea belotti,Fiorentina,A,4.51878010669156,0.1236,0.1081
+mateo retegui,Genoa,A,4.505252030670766,0.1713,0.2197
+m'bala nzola,Fiorentina,A,4.477414283987825,0.1003,0.0749
+noah okafor,AC Milan,A,4.464912088908567,0.1236,0.1603
+marko arnautovic,Inter,A,4.3597408975525545,0.0625,0.2867
+alexis sanchez,Inter,A,4.293440294623524,0.0736,0.0463
+zito luvumbo,Cagliari,A,4.218342271585198,0.1111,0.1195
+stephan el shaarawy,Roma,A,4.18244125420769,0.0861,0.0749
+lameck banda,Lecce,A,4.155316875643998,0.0736,0.0463
+arkadiusz milik,Juventus,A,4.105186360170173,0.1128,0.1073
+pontus almqvist,Lecce,A,4.09262020178492,0.0736,0.0347
+valentin castellanos,Lazio,A,4.056707085209281,0.0986,0.087
+nicolo cambiaghi,Empoli,A,3.973908584137184,0.0611,0.0213
+federico bonazzoli,Verona,A,3.962712806190207,0.0861,0.045
+darko lazovic,Verona,A,3.928057418709881,0.1088,0.0749
+caleb ekuban,Genoa,A,3.913512269381301,0.1213,0.1073
+riccardo sottil,Fiorentina,A,3.9103419279689744,0.105,0.0463
+dan ndoye,Bologna,A,3.901715493456509,0.0903,0.0213
+gianluca lapadula,Cagliari,A,3.893838847683358,0.1003,0.0749
+roberto piccoli,Lecce,A,3.735319321575109,0.0986,0.1073
+matteo cancellieri,Empoli,A,3.72727840389174,0.1398,0.2048
+kenan yildiz,Juventus,A,3.718143780461207,0.0878,0.0463
+francesco caputo,Empoli,A,3.6971940427487247,0.0736,0.0463
+lorenzo colombo,Monza,A,3.649950854407962,0.0861,0.0749
+pedro rodriguez,Lazio,A,3.585789306352385,0.0611,0.0213
+samuel chukwueze,AC Milan,A,3.551505491548597,0.0611,0.0213
+tommaso baldanzi,Roma,A,3.539934540541158,0.0736,0.0463
+gustav isaksen,Lazio,A,3.478766847296071,0.0861,0.0749
+nicola sansone,Lecce,A,3.465871695670076,0.0736,0.0463
+cristian volpato,Sassuolo,A,3.365828199215989,0.0611,0.0213
+patrick ciurria,Monza,A,3.323795032547592,0.0,0.0
+samuel iling-junior,Juventus,A,3.305908169557745,0.0611,0.0213
+kaio jorge,Frosinone,A,3.305865248662942,0.0861,0.0599
+eldor shomurodov,Cagliari,A,3.27795813056594,0.0736,0.0463
+christian kouame,Fiorentina,A,3.2361854343502765,0.0736,0.0463
+sardar azmoun,Roma,A,2.9907077786763634,0.0861,0.0749
+alessio zerbin,Monza,A,2.870746436134114,0.0,0.0
+isaac success,Udinese,A,2.855494717737655,0.0838,0.0213
+leonardo pavoletti,Cagliari,A,2.796135484280822,0.0736,0.0347
+domenico berardi,Sassuolo,A,2.746738919874218,0.1486,0.2131
+chukwubuikem ikwuemesi,Salernitana,A,2.7388436043278133,0.0611,0.0213
+gregoire defrel,Sassuolo,A,2.70819506001134,0.0611,0.0213
+emmanuel quartsin gyasi,Empoli,A,2.6533762872894022,0.0611,0.0213
+giovanni simeone,Napoli,A,2.6327799546258026,0.0611,0.0213
+jackson tchatchoua,Verona,A,2.469375096698178,0.0,0.0
+demba seck,Frosinone,A,2.4268309742894782,0.0,0.0
+pietro pellegri,Torino,A,2.384663574060406,0.0903,0.0213
+marvin cuni,Frosinone,A,2.349666707489096,0.0611,0.0213
+moise kean,Juventus,A,2.2850566429873287,0.0,0.0
+samuele mulattieri,Sassuolo,A,2.1653862159852904,0.0,0.0
+tijjani noslin,Verona,A,1.780392862324139,0.1602,0.2048
+m'baye niang,Empoli,A,1.628093609548119,0.175,0.4865
+boulaye dia,Salernitana,A,1.1658434813141945,0.0861,0.0749
+daniel maldini,Empoli,A,1.1181587312437475,0.0986,0.0894
+luis muriel,Atalanta,A,0.9420171034325044,0.0736,0.0347
+simy,Salernitana,A,0.8106407511975994,0.1023,0.1758
+andrea petagna,Cagliari,A,0.7527378403977708,0.0611,0.0213
+thomas henry,Verona,A,0.6928886132685363,0.0861,0.0599
+karol swiderski,Verona,A,0.6520159703510102,0.1028,0.0463
+junior messias,Genoa,A,0.6072506947746723,0.0611,0.0213
+el bilal toure,Atalanta,A,0.6048177993629147,0.0736,0.0463
+nemanja radonjic,Torino,A,0.6033580621158604,0.0,0.0
+jovane cabral,Salernitana,A,0.4826864496926881,0.0611,0.0213
+jens odgaard,Bologna,A,0.4797669751985791,0.0736,0.0463
+emmanuel ekong,Empoli,A,0.4593306537398162,0.0,0.0
+vitor oliveira,Genoa,A,0.4525185465868952,0.1023,0.1758
+jaime baez,Frosinone,A,0.4062935337635026,0.0611,0.0213
+samuel castillejo,Sassuolo,A,0.3756390515753581,0.0,0.0
+josip brekalo,Fiorentina,A,0.3347664086578322,0.0611,0.0213
+mirko maric,Monza,A,0.3308737759990202,0.0611,0.0213
+gianluca caprari,Monza,A,0.3240616688460991,0.0,0.0
+rares burnete,Lecce,A,0.3114106127049601,0.0,0.0
+tammy abraham,Roma,A,0.3050850846343906,0.0925,0.0213
+santiago castro,Bologna,A,0.2919474494109001,0.0753,0.0213
+shon weissman,Salernitana,A,0.2705379697874341,0.0611,0.0213
+beto,Udinese,A,0.2656721789639191,0.0,0.0
+keinan davis,Udinese,A,0.2510748064933741,0.0898,0.1109
+stiven shpendi,Empoli,A,0.2072826890817391,0.0,0.0
+zanos savva,Torino,A,0.2014437400935211,0.0903,0.0213
+santiago pierotti,Lecce,A,0.1965779492700061,0.0,0.0
+jesper karlsson,Bologna,A,0.1849000512935701,0.0,0.0
+chaka traore,AC Milan,A,0.177114785975946,0.0611,0.0213
+joao costa,Roma,A,0.174195311481837,0.0,0.0
+federico di francesco,Lecce,A,0.172248995152431,0.0611,0.0142
+kingstone mutandwa,Cagliari,A,0.172248995152431,0.0898,0.1109
+george puscas,Genoa,A,0.14597372470545,0.0,0.0
+emil konradsen ceide,Sassuolo,A,0.133322668564311,0.0,0.0
+stefan mitrovic,Verona,A,0.123591086917281,0.0,0.0
+jordi mboula,Verona,A,0.1211581915055235,0.0,0.0
+david okereke,Torino,A,0.11677897976436,0.0,0.0
+andres sfait,Salernitana,A,0.105101081787924,0.0,0.0
+giuseppe caso,Frosinone,A,0.1046145027055725,0.0,0.0
+brenner da silva,Udinese,A,0.084664760329161,0.0,0.0
+mattia destro,Empoli,A,0.080772127670349,0.0,0.0
+sydney van hooijdonk,Bologna,A,0.07785265317624,0.0,0.0
+fares ghedjemis,Frosinone,A,0.06812107152921,0.0,0.0
+yann karamoh,Torino,A,0.053523699058665,0.0,0.0
+trivante stewart,Salernitana,A,0.043792117411635,0.0,0.0
+juan manuel cruz,Verona,A,0.039899484752823,0.0,0.0
+david ankeye,Genoa,A,0.023355795952872,0.0,0.0
+seydou fini,Genoa,A,0.006812107152921,0.0,0.0
+simone pafundi,Udinese,A,0.004865790823515,0.0,0.0
+yayah kallon,Verona,A,0.001946316329406,0.0,0.0
+luigi canotto,Frosinone,A,0.001946316329406,0.0,0.0
+diego valencia,Salernitana,A,0.001946316329406,0.0,0.0
+ola solbakken,Roma,A,0.001946316329406,0.0,0.0
+diego gonzalez,Lazio,A,0.001946316329406,0.0,0.0
+vivaldo semedo,Udinese,A,0.001946316329406,0.0,0.0
+agustin alvarez,Sassuolo,A,0.001946316329406,0.0,0.0
+jeppe corfitzen,Lecce,A,0.001946316329406,0.0,0.0
+till winkelman,Lecce,A,0.001946316329406,0.0,0.0
+flavio russo,Sassuolo,A,0.001946316329406,0.0,0.0
+giacomo corona,Empoli,A,0.001946316329406,0.0,0.0
+matija popovic,Monza,A,0.001946316329406,0.0,0.0
+giorgi kvernadze,Frosinone,A,0.001946316329406,0.0,0.0
+gaston pereiro,Cagliari,A,0.001946316329406,0.0,0.0
+gerard deulofeu,Udinese,A,0.001946316329406,0.0,0.0
+massimo coda,Genoa,A,0.001946316329406,0.0,0.0
+francesco camarda,AC Milan,A,0.001946316329406,0.0,0.0
+siren diao balde,Verona,A,0.001946316329406,0.0,0.0
+marley ake,Udinese,A,0.001946316329406,0.0,0.0
+gennaro borrelli,Frosinone,A,0.001946316329406,0.0,0.0
+hirving lozano,Napoli,A,0.001946316329406,0.0,0.0
+jacopo desogus,Cagliari,A,0.001946316329406,0.0,0.0
+luigi cherubini,Roma,A,0.001946316329406,0.0,0.0
+sekou diawara,Udinese,A,0.001946316329406,0.0,0.0
+leonardo cerri,Juventus,A,0.001946316329406,0.0611,0.0213
+joaquin correa,Inter,A,0.001946316329406,0.0,0.0
+soufiane bidaoui,Frosinone,A,0.001946316329406,0.0,0.0
+andrea ferraris,Monza,A,0.001946316329406,0.0,0.0
+joel voelkerling persson,Lecce,A,0.001946316329406,0.0,0.0
+junior ajayi,Verona,A,0.001946316329406,0.0,0.0
+assan ceesay,Lecce,A,0.001946316329406,0.0,0.0
+alphadjo cisse,Verona,A,0.001946316329406,0.0,0.0
+erik botheim,Salernitana,A,0.0,0.0,0.0
