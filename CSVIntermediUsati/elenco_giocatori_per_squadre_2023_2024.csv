@@ -1,0 +1,690 @@
+Team,Number,Player,Position
+Inter,1,Yann Sommer,P
+Inter,2,Denzel Dumfries,D
+Inter,5,Stefano Sensi,C
+Inter,6,Stefan de Vrij,D
+Inter,7,Juan Cuadrado,C
+Inter,8,Marko Arnautović,A
+Inter,9,Marcus Thuram,A
+Inter,10,Lautaro Martínez,A
+Inter,11,Joaquín Correa,A
+Inter,12,Raffaele Di Gennaro,P
+Inter,14,Davy Klaassen,C
+Inter,15,Francesco Acerbi,D
+Inter,16,Davide Frattesi,C
+Inter,17,Tajon Buchanan,C
+Inter,20,Hakan Çalhanoğlu,C
+Inter,21,Kristjan Asllani,C
+Inter,22,Henrikh Mkhitaryan,C
+Inter,23,Nicolò Barella,C
+Inter,28,Benjamin Pavard,D
+Inter,30,Carlos Augusto,D
+Inter,31,Yann Aurel Bisseck,D
+Inter,32,Federico Dimarco,D
+Inter,36,Matteo Darmian,D
+Inter,41,Ebenezer Akinsanmiro,C
+Inter,42,Lucien Agoumé,C
+Inter,70,Alexis Sánchez,A
+Inter,77,Emil Audero,P
+Inter,95,Alessandro Bastoni,D
+Juventus,1,Wojciech Szczęsny,P
+Juventus,2,Mattia De Sciglio,D
+Juventus,3,Gleison Bremer,D
+Juventus,4,Federico Gatti,D
+Juventus,5,Manuel Locatelli,C
+Juventus,6,Danilo,D
+Juventus,7,Federico Chiesa,A
+Juventus,9,Dušan Vlahović,A
+Juventus,10,Paul Pogba,C
+Juventus,11,Filip Kostić,C
+Juventus,12,Alex Sandro,D
+Juventus,14,Arkadiusz Milik,A
+Juventus,15,Kenan Yildiz,A
+Juventus,16,Weston McKennie,C
+Juventus,17,Samuel Iling-Junior,A
+Juventus,18,Moise Kean,A
+Juventus,20,Fabio Miretti,C
+Juventus,21,Nicolò Fagioli,C
+Juventus,22,Timothy Weah,C
+Juventus,23,Carlo Pinsoglio,P
+Juventus,24,Daniele Rugani,D
+Juventus,25,Adrien Rabiot,C
+Juventus,26,Carlos Alcaraz,C
+Juventus,27,Andrea Cambiaso,D
+Juventus,33,Tiago Djaló,D
+Juventus,36,Mattia Perin,P
+Juventus,39,Nikola Sekulov,C
+Juventus,41,Hans Nicolussi Caviglia,C
+Juventus,45,Leonardo Cerri,A
+Juventus,47,Joseph Boende,C
+AC Milan,2,Davide Calabria,D
+AC Milan,4,Ismaël Bennacer,C
+AC Milan,7,Yacine Adli,C
+AC Milan,8,Ruben Loftus-Cheek,C
+AC Milan,9,Olivier Giroud,A
+AC Milan,10,Rafael Leão,A
+AC Milan,11,Christian Pulisic,A
+AC Milan,14,Tijjani Reijnders,C
+AC Milan,15,Luka Jović,A
+AC Milan,16,Mike Maignan,P
+AC Milan,17,Noah Okafor,A
+AC Milan,18,Luka Romero,C
+AC Milan,19,Theo Hernández,D
+AC Milan,20,Pierre Kalulu,D
+AC Milan,21,Samuel Chukwueze,A
+AC Milan,23,Fikayo Tomori,D
+AC Milan,24,Simon Kjær,D
+AC Milan,28,Malick Thiaw,D
+AC Milan,30,Mattia Caldara,D
+AC Milan,32,Tommaso Pobega,C
+AC Milan,33,Rade Krunić,C
+AC Milan,38,Filippo Terracciano,D
+AC Milan,42,Alessandro Florenzi,D
+AC Milan,46,Matteo Gabbia,D
+AC Milan,57,Marco Sportiello,P
+AC Milan,69,Lapo Nava,P
+AC Milan,70,Chaka Traorè,A
+AC Milan,73,Francesco Camarda,A
+AC Milan,74,Alejandro Jiménez,D
+AC Milan,78,Andrea Bartoccioni,P
+AC Milan,80,Yunus Musah,C
+AC Milan,81,Victor Eletu,C
+AC Milan,82,Jan-Carlo Simić,D
+AC Milan,83,Antonio Mirante,P
+AC Milan,84,Clinton Nsiala-Makengo,D
+AC Milan,86,Kevin Zeroli,C
+AC Milan,92,Noah Raveyre,P
+AC Milan,96,Lorenzo Torriani,P
+AC Milan,95,Davide Bartesaghi,D
+Atalanta,1,Juan Musso,P
+Atalanta,2,Rafael Tolói,D
+Atalanta,3,Emil Holm,D
+Atalanta,4,Isak Hien,D
+Atalanta,6,José Luis Palomino,D
+Atalanta,7,Teun Koopmeiners,C
+Atalanta,8,Mario Pašalić,C
+Atalanta,9,Luis Muriel,A
+Atalanta,10,El Bilal Touré,A
+Atalanta,11,Ademola Lookman,A
+Atalanta,13,Éderson,C
+Atalanta,15,Marten de Roon,C
+Atalanta,17,Charles De Ketelaere,A
+Atalanta,19,Berat Djimsiti,D
+Atalanta,20,Mitchel Bakker,D
+Atalanta,22,Matteo Ruggeri,D
+Atalanta,23,Sead Kolašinac,D
+Atalanta,25,Michel Ndary Adopo,C
+Atalanta,29,Marco Carnesecchi,P
+Atalanta,31,Francesco Rossi,P
+Atalanta,33,Hans Hateboer,D
+Atalanta,42,Giorgio Scalvini,D
+Atalanta,43,Giovanni Bonfanti,D
+Atalanta,59,Aleksey Miranchuk,A
+Atalanta,77,Davide Zappacosta,C
+Atalanta,90,Gianluca Scamacca,A
+Bologna,3,Stefan Posch,D
+Bologna,4,Mihajlo Ilić,D
+Bologna,5,Adama Soumaoro,D
+Bologna,6,Nikola Moro,C
+Bologna,7,Riccardo Orsolini,A
+Bologna,8,Nicolás Domínguez,C
+Bologna,8,Remo Freuler,C
+Bologna,9,Joshua Zirkzee,A
+Bologna,10,Jesper Karlsson,A
+Bologna,11,Dan Ndoye,A
+Bologna,15,Victor Kristiansen,D
+Bologna,16,Tommaso Corazza,D
+Bologna,17,Oussama El Azzouzi,C
+Bologna,18,Santiago Castro,A
+Bologna,19,Lewis Ferguson,C
+Bologna,20,Michel Aebischer,C
+Bologna,21,Jens Odgaard,A
+Bologna,22,Charalambos Lykogiannīs,D
+Bologna,23,Nicola Bagnolini,P
+Bologna,25,Niklas Pyyhtiä,C
+Bologna,26,Jhon Lucumí,D
+Bologna,28,Lukasz Skorupski,P
+Bologna,29,Lorenzo De Silvestri,D
+Bologna,31,Sam Beukema,D
+Bologna,33,Riccardo Calafiori,D
+Bologna,34,Federico Ravaglia,P
+Bologna,56,Alexis Saelemaekers,A
+Bologna,77,Sydney van Hooijdonk,A
+Bologna,80,Giovanni Fabbian,C
+Bologna,82,Kacper Urbański,C
+Roma,1,Rui Patrício,P
+Roma,2,Rick Karsdorp,D
+Roma,3,Dean Huijsen,D
+Roma,4,Bryan Cristante,C
+Roma,5,Evan N'Dicka,D
+Roma,6,Chris Smalling,D
+Roma,7,Lorenzo Pellegrini,C
+Roma,9,Tammy Abraham,A
+Roma,14,Diego Llorente,D
+Roma,16,Leandro Paredes,C
+Roma,17,Sardar Azmoun,A
+Roma,18,Ola Solbakken,A
+Roma,19,Mehmet Zeki Çelik,D
+Roma,20,Renato Sanches,C
+Roma,21,Paulo Dybala,A
+Roma,22,Houssem Aouar,C
+Roma,23,Gianluca Mancini,D
+Roma,35,Tommaso Baldanzi,A
+Roma,37,Leonardo Spinazzola,D
+Roma,43,Rasmus Kristensen,D
+Roma,52,Edoardo Bove,C
+Roma,59,Nicola Zalewski,C
+Roma,60,Riccardo Pagano,C
+Roma,61,Niccolò Pisilli,C
+Roma,63,Pietro Boer,P
+Roma,64,Luigi Cherubini,A
+Roma,66,Mattia Mannini,C
+Roma,67,João Costa,A
+Roma,68,Francesco D'Alessio,C
+Roma,69,Angeliño,D
+Roma,72,Lovro Golić,D
+Roma,90,Romelu Lukaku,A
+Roma,92,Stephan El Shaarawy,A
+Roma,99,Mile Svilar,P
+Lazio,3,Luca Pellegrini,D
+Lazio,4,Patric,D
+Lazio,5,Matías Vecino,C
+Lazio,6,Daichi Kamada,C
+Lazio,7,Felipe Anderson,C
+Lazio,8,Mattéo Guendouzi,C
+Lazio,9,Pedro Rodriguez,A
+Lazio,10,Luis Alberto,C
+Lazio,13,Alessio Romagnoli,D
+Lazio,15,Nicolò Casale,D
+Lazio,16,Dimitrije Kamenović,D
+Lazio,17,Ciro Immobile,A
+Lazio,18,Gustav Isaksen,A
+Lazio,19,Valentín Castellanos,A
+Lazio,20,Mattia Zaccagni,C
+Lazio,22,Diego González,A
+Lazio,23,Elseid Hysaj,D
+Lazio,28,André Anderson,C
+Lazio,29,Manuel Lazzari,C
+Lazio,31,Marius Adamonis,P
+Lazio,32,Danilo Cataldi,C
+Lazio,34,Mario Gila,D
+Lazio,35,Chrīstos Mandas,P
+Lazio,55,Alessio Furlanetto,P
+Lazio,65,Nicolò Rovella,C
+Lazio,77,Adam Marušić,D
+Lazio,94,Ivan Provedel,P
+Fiorentina,1,Pietro Terracciano,P
+Fiorentina,2,Dodô,D
+Fiorentina,3,Cristiano Biraghi,D
+Fiorentina,4,Nikola Milenković,D
+Fiorentina,5,Giacomo Bonaventura,C
+Fiorentina,6,Arthur,C
+Fiorentina,7,Riccardo Sottil,A
+Fiorentina,8,Maxime Lopez,C
+Fiorentina,9,Lucas Beltrán,A
+Fiorentina,10,Nicolás González,A
+Fiorentina,11,Jonathan Ikoné,C
+Fiorentina,14,Christian Dalle Mura,D
+Fiorentina,16,Luca Ranieri,D
+Fiorentina,17,Gaetano Castrovilli,C
+Fiorentina,18,M'Bala Nzola,A
+Fiorentina,19,Gino Infantino,C
+Fiorentina,20,Andrea Belotti,A
+Fiorentina,28,Lucas Martínez Quarta,D
+Fiorentina,30,Tommaso Martinelli,P
+Fiorentina,32,Alfred Duncan,C
+Fiorentina,33,Michael Kayode,D
+Fiorentina,37,Pietro Comuzzo,D
+Fiorentina,38,Rolando Mandragora,C
+Fiorentina,40,Tommaso Vannucchi,P
+Fiorentina,53,Oliver Christensen,P
+Fiorentina,65,Fabiano Parisi,D
+Fiorentina,72,Antonín Barák,C
+Fiorentina,73,Lorenzo Amatucci,C
+Fiorentina,77,Josip Brekalo,A
+Fiorentina,99,Christian Kouamé,A
+Torino,1,Luca Gemello,P
+Torino,2,Brian Bayeye,D
+Torino,3,Perr Schuurs,D
+Torino,4,Alessandro Buongiorno,D
+Torino,5,Adam Masina,D
+Torino,6,David Zima,D
+Torino,6,Matteo Lovato,D
+Torino,7,Yann Karamoh,A
+Torino,8,Ivan Ilić,C
+Torino,9,Antonio Sanabria,A
+Torino,10,Nemanja Radonjić,A
+Torino,11,Pietro Pellegri,A
+Torino,13,Ricardo Rodríguez,D
+Torino,15,Saba Sazonov,D
+Torino,16,Nikola Vlašić,A
+Torino,17,Wilfried Singo,D
+Torino,19,Raoul Bellanova,D
+Torino,20,Valentino Lazaro,D
+Torino,21,David Okereke,A
+Torino,25,Alessandro Dellavalle,D
+Torino,26,Koffi Djidji,D
+Torino,27,Mërgim Vojvoda,D
+Torino,28,Samuele Ricci,C
+Torino,32,Vanja Milinković-Savić,P
+Torino,61,Adrien Tameze,C
+Torino,66,Gvidas Gineitis,C
+Torino,71,Mihai Popa,P
+Torino,77,Karol Linetty,C
+Torino,79,Zanos Savva,A
+Torino,91,Duván Zapata,A
+Torino,93,Brandon Soppy,D
+Torino,99,Simone Verdi,C
+Napoli,1,Alex Meret,P
+Napoli,3,Natan,D
+Napoli,4,Diego Demme,C
+Napoli,5,Juan Jesus,D
+Napoli,6,Mário Rui,D
+Napoli,7,Eljif Elmas,C
+Napoli,8,Hamed Traorè,C
+Napoli,9,Victor Osimhen,A
+Napoli,11,Hirving Lozano,A
+Napoli,13,Amir Rrahmani,D
+Napoli,14,Nikita Contini,P
+Napoli,16,Hubert Idasiak,P
+Napoli,17,Mathías Olivera,D
+Napoli,18,Giovanni Simeone,A
+Napoli,20,Piotr Zieliński,C
+Napoli,21,Matteo Politano,A
+Napoli,22,Giovanni Di Lorenzo,D
+Napoli,24,Jens-lys Cajuste,C
+Napoli,26,Cyril Ngonge,A
+Napoli,29,Jesper Lindstrøm,C
+Napoli,30,Pasquale Mazzocchi,D
+Napoli,31,Karim Zedadka,C
+Napoli,32,Leander Dendoncker,C
+Napoli,55,Leo Østigård,D
+Napoli,68,Stanislav Lobotka,C
+Napoli,77,Khvicha Kvaratskhelia,A
+Napoli,81,Giacomo Raspadori,A
+Napoli,95,Pierluigi Gollini,P
+Napoli,99,André-Frank Zambo Anguissa,C
+Genoa,1,Josep Martínez,P
+Genoa,16,Nicola Leali,P
+Genoa,39,Daniele Sommariva,P
+Genoa,78,Franz Stolz,P
+Genoa,36,Silvan Hefti,D
+Genoa,13,Mattia Bani,D
+Genoa,14,Alessandro Vogliacco,D
+Genoa,5,Radu Drăgușin,D
+Genoa,4,Koni De Winter,D
+Genoa,23,Davide Biraschi,D
+Genoa,6,Giorgio Cittadini,D
+Genoa,22,Johan Vásquez,D
+Genoa,33,Alan Matturro,D
+Genoa,20,Stefano Sabelli,D
+Genoa,90,Djed Spence,D
+Genoa,3,Aarón Caricol,D
+Genoa,15,Ridgeciano Haps,D
+Genoa,47,Milan Badelj,C
+Genoa,8,Kevin Strootman,C
+Genoa,32,Morten Frendrup,C
+Genoa,2,Morten Thorsby,C
+Genoa,17,Ruslan Malinovsky,C
+Genoa,41,Christos Papadopoulos,C
+Genoa,24,Filip Jagiello,C
+Genoa,25,Berkan Kutlu,C
+Genoa,99,Pablo Galdames,C
+Genoa,10,Junior Messias,A
+Genoa,9,Massimo Coda,A
+Genoa,11,Albert Gudmundsson,A
+Genoa,18,Caleb Ekuban,A
+Genoa,19,Mateo Retegui,A
+Genoa,30,David Ankeye,A
+Genoa,37,George Pușcaș,A
+Genoa,40,Seydou Fini,A
+Genoa,9,Vitor Oliveira,A
+Monza,1,Eugenio Lamanna,P
+Monza,2,Giulio Donati,D
+Monza,3,Armando Anastasio,D
+Monza,4,Armando Izzo,D
+Monza,5,Luca Caldirola,D
+Monza,6,Roberto Gagliardini,C
+Monza,7,José Machín,C
+Monza,8,Jean-Daniel Akpa-Akpro,C
+Monza,9,Lorenzo Colombo,A
+Monza,10,Gianluca Caprari,A
+Monza,11,Franco Carboni,C
+Monza,13,Pedro Pereira,D
+Monza,16,Michele Di Gregorio,P
+Monza,17,Alejandro Gómez,C
+Monza,18,Davide Bettella,D
+Monza,19,Samuele Birindelli,D
+Monza,20,Alessio Zerbin,A
+Monza,21,Valentín Carboni,C
+Monza,22,Pablo Marí,D
+Monza,23,Alessandro Sorentino,P
+Monza,24,Mirko Marić,A
+Monza,26,Valentin Antov,D
+Monza,27,Mattia Valoti,C
+Monza,28,Andrea Colpani,C
+Monza,31,Mario Sampirisi,D
+Monza,32,Matteo Pessina,C
+Monza,33,Danilo D'Ambrosio,D
+Monza,38,Warren Bondo,C
+Monza,44,Andrea Carboni,D
+Monza,47,Dany Mota,A
+Monza,61,Andrea Ferraris,A
+Monza,66,Stefano Gori,P
+Monza,77,Giorgos Kyriakopoulos,D
+Monza,79,Matija Popović,A
+Monza,80,Samuel Vignato,C
+Monza,84,Patrick Ciurria,A
+Verona,1,Lorenzo Montipò,P
+Verona,2,Bruno Amione,D
+Verona,5,Marco Davide Faraoni,D
+Verona,7,Reda Belahyane,C
+Verona,8,Elayis Tavşan,C
+Verona,9,Darko Lazović,A
+Verona,10,Thomas Henry,A
+Verona,11,Stefan Mitrović,A
+Verona,11,Milan Djuric,A
+Verona,14,Karol Świderski,A
+Verona,13,Juan Manuel Cruz,A
+Verona,14,Joselito,C
+Verona,16,Mattia Chiesa,P
+Verona,17,Federico Ceccherini,D
+Verona,17,Yayah Kallon,A
+Verona,18,Tijjani Noslin,A
+Verona,19,Martin Hongla,C
+Verona,20,Fabien Centonze,D
+Verona,21,Rúben Vinagre,D
+Verona,20,Riccardo Saponara,C
+Verona,21,Siren Diao Balde,A
+Verona,21,Daniel Silva,C
+Verona,22,Alessandro Berardi,P
+Verona,23,Giangiacomo Magnani,D
+Verona,25,Suat Serdar,C
+Verona,27,Pawel Dawidowicz,D
+Verona,28,Nicola Patanè,C
+Verona,30,Tomáš Suslov,C
+Verona,31,Juan Cabal,D
+Verona,33,Ondrej Duda,C
+Verona,34,Simone Perilli,P
+Verona,37,Charlys,C
+Verona,38,Jackson Tchatchoua,A
+Verona,42,Diego Coppola,D
+Verona,72,Junior Ajayi,A
+Verona,75,Nicolò Calabrese,D
+Verona,77,Jordi Mboula,A
+Verona,80,Alphadjo Cissè,A
+Verona,84,Christian Corradi,D
+Verona,90,Michael Folorunsho,C
+Verona,94,Giacomo Toniolo,P
+Verona,97,Denis Cazzadori,D
+Verona,99,Federico Bonazzoli,A
+Lecce,5,Marin Pongračić,D
+Lecce,6,Federico Baschirotto,D
+Lecce,7,Pontus Almqvist,A
+Lecce,8,Hamza Rafia,C
+Lecce,9,Assan Ceesay,A
+Lecce,10,Nikola Krstović,A
+Lecce,11,Rémi Oudin,C
+Lecce,11,Federico Di Francesco,A
+Lecce,13,Nicola Sansone,A
+Lecce,14,Lorenzo Venuti,D
+Lecce,15,Patrick Dorgu,D
+Lecce,16,Þórir Jóhann Helgason,C
+Lecce,16,Joan González,C
+Lecce,17,Valentin Gendrey,D
+Lecce,18,Medon Berisha,C
+Lecce,19,Marcin Listkowski,C
+Lecce,20,Ylber Ramadani,C
+Lecce,21,Federico Brancolini,P
+Lecce,22,Lameck Banda,A
+Lecce,23,Giacomo Faticanti,C
+Lecce,24,Jeppe Corfitzen,A
+Lecce,25,Antonino Gallo,D
+Lecce,26,Zinedin Smajlovic,D
+Lecce,27,Gabriel Strefezza,C
+Lecce,28,Cătălin Vulturar,C
+Lecce,29,Alexis Blin,C
+Lecce,30,Wladimiro Falcone,P
+Lecce,31,Joel Voelkerling Persson,A
+Lecce,40,Jasper Samooja,P
+Lecce,45,Rareș Burnete,A
+Lecce,50,Santiago Pierotti,A
+Lecce,55,Kastriot Dermaku,D
+Lecce,59,Ahmed Touba,D
+Lecce,70,Antonino Viola,C
+Lecce,77,Mohamed Kaba,C
+Lecce,83,Mats Lemmens,D
+Lecce,83,Daniel Samek,C
+Lecce,91,Roberto Piccoli,A
+Lecce,98,Alexandru Borbei,P
+Lecce,99,Till Winkelman,A
+Udinese,1,Marco Silvestri,P
+Udinese,2,Festy Ebosele,D
+Udinese,3,Quina,C
+Udinese,4,Sandi Lovric,C
+Udinese,5,Axel Guessand,D
+Udinese,6,Oier Zarraga,C
+Udinese,7,Isaac Success,A
+Udinese,8,Domingos Quina,C
+Udinese,99,Beto,A
+Udinese,9,Keinan Davis,A
+Udinese,10,Gerard Deulofeu,A
+Udinese,11,Walace,C
+Udinese,12,Hassane Kamara,D
+Udinese,13,João Ferreira,D
+Udinese,14,James Abankwah,D
+Udinese,15,Marley Aké,A
+Udinese,16,Antonio Tikvić,D
+Udinese,17,Lorenzo Lucca,A
+Udinese,18,Nehuén Pérez,D
+Udinese,19,Kingsley Ehizibue,D
+Udinese,20,Vivaldo Semedo,A
+Udinese,21,Etienne Camara,C
+Udinese,22,Brenner Da Silva,A
+Udinese,23,Enzo Ebosse,D
+Udinese,24,Lazar Samardžić,C
+Udinese,25,Marco Ballarini,C
+Udinese,26,Florian Thauvin,A
+Udinese,27,Christian Kabasele,D
+Udinese,29,Jaka Bijol,D
+Udinese,30,Lautaro Gianetti,D
+Udinese,31,Thomas Kristensen,D
+Udinese,32,Martin Payero,C
+Udinese,33,Jordan Zemura,D
+Udinese,34,Sekou Diawara,A
+Udinese,37,Roberto Pereyra,C
+Udinese,40,Maduka Okoye,P
+Udinese,79,David Pejičić,C
+Udinese,80,Simone Pafundi,A
+Udinese,83,Samuel John Nwachukwu,D
+Udinese,93,Daniele Padelli,P
+Cagliari,1,Boris Radunović,P
+Cagliari,3,Edoardo Goldaniga,D
+Cagliari,4,Alberto Dossena,D
+Cagliari,5,Marco Mancosu,C
+Cagliari,6,Marko Rog,C
+Cagliari,8,Nahitan Nández,C
+Cagliari,9,Gianluca Lapadula,A
+Cagliari,10,Nicolas Viola,C
+Cagliari,17,Alessandro Deiola,C
+Cagliari,15,Giorgio Altare,D
+Cagliari,16,Matteo Prati,C
+Cagliari,17,Pantelīs Hatzīdīakos,D
+Cagliari,18,Simone Aresti,P
+Cagliari,19,Gaetano Oristanio,C
+Cagliari,20,Gastón Pereiro,A
+Cagliari,21,Jakub Jankto,C
+Cagliari,22,Simone Scuffet,P
+Cagliari,23,Nunzio Lella,C
+Cagliari,23,Mateusz Wieteska,D
+Cagliari,24,Elio Capradossi,D
+Cagliari,25,Ibrahim Sulemana,C
+Cagliari,26,Yerry Mina,D
+Cagliari,27,Tommaso Augello,D
+Cagliari,28,Gabriele Zappa,D
+Cagliari,29,Antoine Makoumbou,C
+Cagliari,30,Leonardo Pavoletti,A
+Cagliari,32,Andrea Petagna,A
+Cagliari,33,Adam Obert,D
+Cagliari,34,Kingstone Mutandwa,A
+Cagliari,37,Paulo Azzi,D
+Cagliari,38,Jacopo Desogus,A
+Cagliari,39,Christos Kourfalidis,C
+Cagliari,61,Eldor Shomurodov,A
+Cagliari,70,Gianluca Gaetano,C
+Cagliari,77,Zito Luvumbo,A
+Cagliari,99,Alessandro Di Pardo,D
+Empoli,1,Samuele Perisan,P
+Empoli,2,Saba Goglichidze,D
+Empoli,3,Giuseppe Pezzella,D
+Empoli,4,Sebastian Walukiewicz,D
+Empoli,5,Alberto Grassi,C
+Empoli,7,Stiven Shpendi,A
+Empoli,8,Viktor Kovalenko,C
+Empoli,9,Francesco Caputo,A
+Empoli,10,Liam Henderson,C
+Empoli,11,M'Baye Niang,A
+Empoli,12,Emmanuel Quartsin Gyasi,A
+Empoli,13,Liberato Cacace,D
+Empoli,14,Gabriele Guarino,D
+Empoli,16,Luca Belardinelli,C
+Empoli,17,Emmanuel Ekong,A
+Empoli,17,Alberto Cerri,C
+Empoli,18,Răzvan Marin,C
+Empoli,19,Bartosz Bereszyński,D
+Empoli,20,Matteo Cancellieri,A
+Empoli,21,Jacopo Fazzini,C
+Empoli,22,Filippo Ranocchia,C
+Empoli,23,Mattia Destro,A
+Empoli,24,Tyronne Ebuehi,D
+Empoli,25,Elia Caprile,P
+Empoli,27,Daniel Maldini,A
+Empoli,27,Szymon Żurkowski,C
+Empoli,28,Nicolò Cambiaghi,A
+Empoli,29,Youssef Maleh,C
+Empoli,30,Simone Bastoni,C
+Empoli,30,Petar Stojanović,D
+Empoli,31,Luca Marianucci,D
+Empoli,31,Giacomo Corona,A
+Empoli,32,Nicolas Haas,C
+Empoli,33,Sebastiano Luperto,D
+Empoli,34,Ardian Ismajli,D
+Empoli,37,Iwo Kaczmarski,C
+Empoli,39,Alessandro Sodero,C
+Empoli,40,Lovro Stubljar,P
+Empoli,44,Lorenzo Ignacchiti,C
+Empoli,92,Giovanni Crociata,C
+Empoli,99,Etrit Berisha,P
+Frosinone,1,Pierluigi Frattali,P
+Frosinone,3,Riccardo Marchizza,D
+Frosinone,4,Marco Brescianini,C
+Frosinone,5,Memeh Caleb Okoli,D
+Frosinone,6,Simone Romagnoli,D
+Frosinone,7,Jaime Báez,A
+Frosinone,8,Karlo Lulić,C
+Frosinone,8,Demba Seck,A
+Frosinone,9,Gennaro Borrelli,A
+Frosinone,9,Kaio Jorge,A
+Frosinone,10,Giuseppe Caso,A
+Frosinone,11,Marvin Cuni,A
+Frosinone,12,Reinier,C
+Frosinone,14,Francesco Gelli,C
+Frosinone,16,Luca Garritano,C
+Frosinone,17,Giorgi Kvernadze,A
+Frosinone,18,Matías Soulé,A
+Frosinone,19,Luigi Canotto,A
+Frosinone,20,Nadir Zortea,D
+Frosinone,20,Pol Lirola,D
+Frosinone,21,Abdou Harroui,C
+Frosinone,22,Anthony Oyono,D
+Frosinone,23,Sergio Kalaj,D
+Frosinone,24,Mehdi Bourabia,C
+Frosinone,25,Przemyslaw Szymiński,D
+Frosinone,26,Soufiane Bidaoui,A
+Frosinone,27,Arijon Ibrahimović,C
+Frosinone,29,Farès Ghedjemis,A
+Frosinone,30,Ilario Monterisi,D
+Frosinone,31,Michele Cerofolini,P
+Frosinone,32,Emanuele Valeri,D
+Frosinone,33,Michele Avella,P
+Frosinone,33,Kevin Bonifazi,D
+Frosinone,36,Luca Mazzitelli,C
+Frosinone,45,Enzo Barrenechea,C
+Frosinone,47,Mateus Lusuardi,D
+Frosinone,70,Walid Cheddira,A
+Frosinone,80,Stefano Turati,P
+Sassuolo,2,Filippo Missori,D
+Sassuolo,16,justin kumi,C
+Sassuolo,20,Kevin Miranda,D
+Sassuolo,12,Samuel Castillejo,A
+Sassuolo,3,Marcus Holmgren Pedersen,D
+Sassuolo,5,Martin Erlić,D
+Sassuolo,6,Uroš Račić,C
+Sassuolo,7,Matheus Henrique,C
+Sassuolo,8,Samuele Mulattieri,A
+Sassuolo,9,Andrea Pinamonti,A
+Sassuolo,10,Domenico Berardi,A
+Sassuolo,11,Nedim Bajrami,C
+Sassuolo,13,Gian Marco Ferrari,D
+Sassuolo,14,Pedro Obiang,C
+Sassuolo,15,Emil Konradsen Ceide,A
+Sassuolo,17,Matías Viña,D
+Sassuolo,19,Agustín Álvarez,A
+Sassuolo,19,Marash Kumbulla,D
+Sassuolo,21,Mattia Viti,D
+Sassuolo,22,Jeremy Toljan,D
+Sassuolo,23,Cristian Volpato,A
+Sassuolo,24,Daniel Boloca,C
+Sassuolo,25,Gianluca Pegolo,P
+Sassuolo,28,Alessio Cragno,P
+Sassuolo,31,Flavio Russo,A
+Sassuolo,32,Kevin Leone,C
+Sassuolo,33,Daniel Theiner,P
+Sassuolo,35,Luca Lipani,C
+Sassuolo,42,Kristian Thorstvedt,C
+Sassuolo,43,Josh Doig,D
+Sassuolo,44,Ruan Tressoldi,D
+Sassuolo,45,Armand Laurienté,A
+Sassuolo,47,Andrea Consigli,P
+Sassuolo,92,Grégoire Defrel,A
+Salernitana,1,Vincenzo Fiorillo,P
+Salernitana,12,Andres Sfait,A
+Salernitana,3,Domagoj Bradarić,D
+Salernitana,4,Triantafyllos Pasalidīs,D
+Salernitana,5,Flavius Daniliuc,D
+Salernitana,5,Jérôme Boateng,D
+Salernitana,6,Junior Sambia,C
+Salernitana,7,Agustín Martegani,C
+Salernitana,8,Emil Bohinen,C
+Salernitana,9,Simy,A
+Salernitana,10,Boulaye Dia,A
+Salernitana,11,Iron Gomis,C
+Salernitana,11,Erik Botheim,A
+Salernitana,13,Guillermo Ochoa,P
+Salernitana,14,Diego Valencia,A
+Salernitana,22,Shon Weissman,A
+Salernitana,23,Federico Fazio,D
+Salernitana,18,Lassana Coulibaly,C
+Salernitana,19,Trivante Stewart,A
+Salernitana,20,Grīgorīs Kastanos,C
+Salernitana,21,Jovane Cabral,A
+Salernitana,22,Chukwubuikem Ikwuemesi,A
+Salernitana,23,Norbert Gyömbér,D
+Salernitana,24,Marco Pellegrino,D
+Salernitana,25,Giulio Maggiore,C
+Salernitana,26,Toma Bašić,C
+Salernitana,27,Niccolò Pierozzi,D
+Salernitana,28,Dylan Bronn,D
+Salernitana,33,Luigi Sepe,P
+Salernitana,33,Loum Tchaouna,C
+Salernitana,39,Antonio Pio Iervolino,C
+Salernitana,40,Emanuele Elia,D
+Salernitana,43,Gerardo Fusco,D
+Salernitana,44,Konstantinos Manōlas,D
+Salernitana,55,Emanuel Vignato,C
+Salernitana,56,Benoît Costil,P
+Salernitana,59,Alessandro Zanoli,D
+Salernitana,78,Mamadou Coulibaly,C
+Salernitana,87,Antonio Candreva,C
+Salernitana,88,Lorenzo Pirola,D
+Salernitana,99,Mateusz Lęgowski,C
